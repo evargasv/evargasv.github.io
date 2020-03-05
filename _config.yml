@@ -9,15 +9,15 @@ email: elizabeth.vargas@hw.ac.uk
 #website: www.github.com/sproogen/resume-theme
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+#github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: chillwildlife
-linkedin_username: jameswgrant
+#linkedin_username: jameswgrant
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
@@ -38,13 +38,21 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-more_title: Something completely different
+more_title: News
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  *Jan. 2020:* I am one of the organizers of the [Women in Computer Vision Workshop](https://sites.google.com/view/wicvworkshop-eccv2020/).
+  *Nov. 2019:* Sucessfully defended my thesis.
+
+# More Section
+more_title: Timeline
+more_content: | # this will include new lines to allow paragraphs
+  2019 - Present: Research Associate at ORCAHub.
+
+more_title: Publications
+more_content: | # this will include new lines to allow paragraphs
+  *Conferences*
+
+  *Theses*
 
 # Footer
 footer_show_references: true
