@@ -9,13 +9,13 @@ email: elizabeth.vargas@hw.ac.uk
 #website: www.github.com/sproogen/resume-theme
 
 # Social links
-#twitter_username: facespics
-#github_username:  sproogen
+twitter_username: elizavargasv
+github_username:  evargasv
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: chillwildlife
-#linkedin_username: jameswgrant
+linkedin_username: evargasv
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -40,8 +40,8 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: News
 more_content: | # this will include new lines to allow paragraphs
-  - *Jan. 2020:* I am one of the organizers of the [Women in Computer Vision Workshop](https://sites.google.com/view/wicvworkshop-eccv2020/).
-  - *Nov. 2019:* Sucessfully defended my thesis.
+  - **Jan. 2020:** I am one of the organizers of the [Women in Computer Vision Workshop](https://sites.google.com/view/wicvworkshop-eccv2020/).
+  - **Nov. 2019:** Sucessfully defended my thesis.
 
 # # More Section
 # more_title: Timeline
