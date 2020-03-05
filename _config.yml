@@ -28,32 +28,28 @@ about_content: | # this will include new lines to allow paragraphs
 
   I obtained my PhD from Heriot-Watt.
 
-# Projects Section
-# projects_title: Projects
-
-# Experience Section
-# experience_title: Experience
-
-# Education Section
-# educaton_title: Education
-
-# More Section
+# News Section
 more_title: News
 more_content: | # this will include new lines to allow paragraphs
   - **Jan. 2020:** I am one of the organizers of the [Women in Computer Vision Workshop](https://sites.google.com/view/wicvworkshop-eccv2020/).
   - **Nov. 2019:** Sucessfully defended my thesis.
   - **Jan. 2019:** Started working for ORCA.
 
-# # More Section
-# more_title: Timeline
-# more_content: | # this will include new lines to allow paragraphs
-#   2019 - Present: Research Associate at ORCAHub.
+# Timeline Section
+experience_title: Timeline
+experience_content: | # this will include new lines to allow paragraphs
+  - **2019 - Present:** Research Associate at ORCAHub.
 
-# more_title: Publications
-# more_content: | # this will include new lines to allow paragraphs
-#   *Conferences*
+# Publications Section
+projects_title: Publications
+projects_content: | # this will include new lines to allow paragraphs
+  **Conferences**
 
-#   *Theses*
+  - EUSIPCO
+
+  **Theses**
+
+  - PhD thesis
 
 # Footer
 footer_show_references: true
