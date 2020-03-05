@@ -40,8 +40,8 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: News
 more_content: | # this will include new lines to allow paragraphs
-  *Jan. 2020:* I am one of the organizers of the [Women in Computer Vision Workshop](https://sites.google.com/view/wicvworkshop-eccv2020/).
-  *Nov. 2019:* Sucessfully defended my thesis.
+  - *Jan. 2020:* I am one of the organizers of the [Women in Computer Vision Workshop](https://sites.google.com/view/wicvworkshop-eccv2020/).
+  - *Nov. 2019:* Sucessfully defended my thesis.
 
 # # More Section
 # more_title: Timeline
@@ -58,7 +58,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: evargasv/resume-theme
 
 sass:
   sass_dir: _sass
