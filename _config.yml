@@ -27,12 +27,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am currently a robotics researcher at Heriot-Watt University.
 
   I obtained my PhD from Heriot-Watt University.
-
-# Timeline Section
-experience_title: Timeline
-experience_content: | # this will include new lines to allow paragraphs
-  - **2019 - Present:** Research Associate at ORCAHub.
-
+  
 # Publications Section
 projects_title: Publications
 projects_content: | # this will include new lines to allow paragraphs
@@ -43,6 +38,11 @@ projects_content: | # this will include new lines to allow paragraphs
   **Theses**
 
   - PhD thesis
+
+# Timeline Section
+experience_title: Timeline
+experience_content: | # this will include new lines to allow paragraphs
+  - **2019 - Present:** Research Associate at ORCAHub.
 
 # News Section
 more_title: News
