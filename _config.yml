@@ -4,9 +4,9 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Elizabeth Vargas
-title: Senior Network System Administrator
+#title: Research Associate
 email: elizabeth.vargas@hw.ac.uk
-website: www.github.com/sproogen/resume-theme
+#website: www.github.com/sproogen/resume-theme
 
 # Social links
 twitter_username: facespics
@@ -27,6 +27,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am currently a robotics researcher at Heriot-Watt.
 
   I obtained my PhD from Heriot-Watt.
+
 # Projects Section
 # projects_title: Projects
 
@@ -37,7 +38,7 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+# more_title: Something completely different
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Rock climbing
