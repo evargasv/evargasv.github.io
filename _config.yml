@@ -24,14 +24,9 @@ youtube_username: globalmtb
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-I am currently a Robotics Researcher in Computer Vision for underwater robots. During my Ph.D. I worked on Signal Processing for Acoustic Localisation at Heriot-Watt 
-University. I obtained my Master's degree in Computer Vision and Robotics from an Erasmus 
-Mundus Master Programm called ViBot, awarded by University of Burgundy, University of Girona 
-and Heriot-Watt University and my Bachelor's degree in computer science from Universidad del 
-Valle. During my studies, I have also spent time as a summer intern at Toshiba Medical 
-Visualization Systems (Jun - Sep 2015), innovation camp participant at Siemens Healthcare GmbH 
-(Feb - Apr 2012) and research intern at Philips Technology GmbH Research Laboratories (Mar - Jul 2011). 
+  I am currently a robotics researcher at Heriot-Watt.
 
+  I obtained my PhD from Heriot-Watt.
 # Projects Section
 # projects_title: Projects
 
