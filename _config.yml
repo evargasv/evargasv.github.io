@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Elizabeth Vargas
-#title: Research Associate
+title: Research Associate
 email: elizabeth.vargas@hw.ac.uk
 #website: www.github.com/sproogen/resume-theme
 
@@ -31,6 +31,7 @@ about_content: | # this will include new lines to allow paragraphs
 # Publications Section
 projects_title: Publications
 projects_content: | # this will include new lines to allow paragraphs
+
   **Conferences**
 
   - EUSIPCO
@@ -42,12 +43,13 @@ projects_content: | # this will include new lines to allow paragraphs
 # Timeline Section
 experience_title: Timeline
 experience_content: | # this will include new lines to allow paragraphs
+
   - **2019 - Present:** Research Associate. [ORCAHub](https://orcahub.org/).
   - **2015 - 2019:** PhD Signal Processing. Heriot-Watt University. Advisors: Keith Brown and Kartic Subr.  
   - **2013 - 2015:** MSc Computer Vision and Robotics. Erasmus Mundus Master Program in Computer Vision and Robotics (ViBot).
   - **Summer 2015:** Research Intern. Toshiba Medical Visualization Systems. Advisor: 
   - **2006 - 2012:** BSc in Computer Science. Universidad del Valle. Advisor: 
-  - **Spring 2012:** Innovation Camp Participant. Siemens Healthcare. 
+  - **Spring 2012:** Innovation Camp Participant. Siemens Healthcare.
   - **Spring 2011:** Research Intern. Philips. Advisor: 
   - **2010 - 2011:** BSc Exchange Student. Friedrich-Alexander-Universitat Erlangen-Nurnberg. 
 
