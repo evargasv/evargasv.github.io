@@ -14,7 +14,7 @@ github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
+# instagram_username: chillwildlife
 linkedin_username: jameswgrant
 # pinterest_username: jekyll
 youtube_username: globalmtb
@@ -38,7 +38,7 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: Something completely different
+more_title: Something completely different
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Rock climbing
