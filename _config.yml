@@ -38,7 +38,7 @@ more_content: | # this will include new lines to allow paragraphs
   - **Feb. 2020:** I am one of the organizers of the [Women in Computer Vision Workshop](https://sites.google.com/view/wicvworkshop-eccv2020/) to be held in conjunction with ECCV in Glasgow, United Kingdom.
   - **Jan. 2020:** Our abstract was accepted to [OCEANS](https://singapore20.oceansconference.org/).
   - **Nov. 2019:** I defended my Phd thesis, titled Acoustic Source Localisation in Constraint Environments. Examiners: [Abderrahim Halimi](https://sites.google.com/site/abderrahimhalimi/) (Heriot-Watt University) 
-  and [Keith Holland] (https://www.southampton.ac.uk/engineering/about/staff/krh.page) (University of Southampton). Slides here.
+  and [Keith Holland](https://www.southampton.ac.uk/engineering/about/staff/krh.page) (University of Southampton). Slides here.
   - **Oct. 2019:** I participated in the third [ORCA Hub](https://orcahub.org/) demonstrations. Press release [here](https://orcahub.org/articles/a-summary-of-the-blyth-capability-demonstrations).
   - **Jan. 2019:** I joined [ORCA Hub](https://orcahub.org/) as Research Associate.
 
@@ -62,6 +62,7 @@ projects_content: | # this will include new lines to allow paragraphs
   **Conferences**
 
   - EUSIPCO
+  <button type="button" class="btn btn-danger">Danger</button>
 
   **Theses**
 
