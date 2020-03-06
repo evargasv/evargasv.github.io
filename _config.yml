@@ -24,34 +24,36 @@ email: elizabeth.vargas@hw.ac.uk
 # about_title: About Me
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am currently a Research Associate at ORCAHub working on computer vision for underwater robots. I obtained my PhD in Signal Processing from Heriot-Watt University. I obtained my Master's degree in 
+  I am currently a Research Associate at [ORCA Hub](https://orcahub.org/) working on computer vision for underwater robots. I obtained my PhD in Signal Processing from Heriot-Watt University. I obtained my Master's degree in 
   Computer Vision and Robotics from an Erasmus Mundus Master Programm called ViBot, awarded by University of Burgundy, University of Girona and Heriot-Watt University and my Bachelor's degree in computer 
   science from Universidad del Valle. During my studies, I have also spent time as a summer intern at Toshiba Medical Visualization Systems (Jun - Sep 2015), innovation camp participant at Siemens Healthcare 
   GmbH (Feb - Apr 2012) and research intern at Philips Technology GmbH Research Laboratories (Mar - Jul 2011).
 
-  [LinkedIn](https://www.linkedin.com/in/evargasv/) / Google Scholar / Github / Twitter / CV
+  [LinkedIn](https://www.linkedin.com/in/evargasv/) / [Google Scholar](https://scholar.google.com/citations?user=SyDXC-MAAAAJ&hl=en) / 
+  [Github](https://github.com/evargasv) / [Twitter](https://twitter.com/elizavargasv) / CV
 
 # News Section
 more_title: News
 more_content: | # this will include new lines to allow paragraphs
-  - **Feb. 2020:** I am one of the organizers of the [Women in Computer Vision Workshop](https://sites.google.com/view/wicvworkshop-eccv2020/).
+  - **Feb. 2020:** I am one of the organizers of the [Women in Computer Vision Workshop](https://sites.google.com/view/wicvworkshop-eccv2020/) to be held in conjunction with ECCV in Glasgow, United Kingdom.
   - **Jan. 2020:** Our abstract was accepted to [OCEANS](https://singapore20.oceansconference.org/).
-  - **Nov. 2019:** Sucessfully defended my PhD thesis. 
-  - **Oct. 2019:** ORCA Demos.
-  - **Jan. 2019:** Started working for ORCA.
+  - **Nov. 2019:** I defended my Phd thesis, titled Acoustic Source Localisation in Constraint Environments. Examiners: [Abderrahim Halimi](https://sites.google.com/site/abderrahimhalimi/) (Heriot-Watt University) 
+  and [Keith Holland] (https://www.southampton.ac.uk/engineering/about/staff/krh.page) (University of Southampton). Slides here.
+  - **Oct. 2019:** I participated in the third [ORCA Hub](https://orcahub.org/) demonstrations. Press release [here](https://orcahub.org/articles/a-summary-of-the-blyth-capability-demonstrations).
+  - **Jan. 2019:** I joined [ORCA Hub](https://orcahub.org/) as Research Associate.
 
 # Timeline Section
 experience_title: Timeline
 experience_content: | # this will include new lines to allow paragraphs
 
-  - **2019 - Present:** Research Associate. [ORCAHub](https://orcahub.org/).
-  - **2015 - 2019:** PhD Signal Processing. Heriot-Watt University. Advisors: Keith Brown and Kartic Subr.  
-  - **2013 - 2015:** MSc Computer Vision and Robotics. Erasmus Mundus Master Program in Computer Vision and Robotics (ViBot).
-  - **Summer 2015:** Research Intern. Toshiba Medical Visualization Systems. Advisor: 
-  - **2006 - 2012:** BSc in Computer Science. Universidad del Valle. Advisor: 
-  - **Spring 2012:** Innovation Camp Participant. Siemens Healthcare.
-  - **Spring 2011:** Research Intern. Philips. Advisor: 
-  - **2010 - 2011:** BSc Exchange Student. Friedrich-Alexander-Universitat Erlangen-Nurnberg. 
+  - **2019-Now:** *Research Associate.* [ORCA Hub](https://orcahub.org/).
+  - **2015-2019:** *PhD Signal Processing.* Heriot-Watt University. Advisors: Keith Brown and Kartic Subr.  
+  - **2013-2015:** *MSc Computer Vision and Robotics.* Erasmus Mundus Master Program in Computer Vision and Robotics (ViBot). Advisor: Keith Goatman.
+  - **Summer 2015:** *Research Intern.* Toshiba Medical Visualization Systems. Advisor: Corne Hoogendoorn.
+  - **2006-2012:** *BSc in Computer Science.* Universidad del Valle. Advisor: Maria Trujillo.
+  - **Spring 2012:** *Innovation Camp Participant.* Siemens Healthcare. Advisor: Sultan Haider.
+  - **Spring 2011:** *Research Intern.* Philips. Advisor: Martin Weibrecht.
+  - **2010-2011:** *BSc Exchange Student.* Friedrich-Alexander-Universitat Erlangen-Nurnberg. 
 
 # Publications Section
 projects_title: Publications
