@@ -9,13 +9,13 @@ email: elizabeth.vargas@hw.ac.uk
 #website: www.github.com/sproogen/resume-theme
 
 # Social links
-twitter_username: elizavargasv
-github_username:  evargasv
+#twitter_username: elizavargasv
+#github_username:  evargasv
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: chillwildlife
-linkedin_username: evargasv
+#linkedin_username: evargasv
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -27,7 +27,9 @@ about_content: | # this will include new lines to allow paragraphs
   I am currently a Research Associate at ORCAHub working on computer vision for underwater robots. I obtained my PhD in Signal Processing from Heriot-Watt University. I obtained my Master's degree in 
   Computer Vision and Robotics from an Erasmus Mundus Master Programm called ViBot, awarded by University of Burgundy, University of Girona and Heriot-Watt University and my Bachelor's degree in computer 
   science from Universidad del Valle. During my studies, I have also spent time as a summer intern at Toshiba Medical Visualization Systems (Jun - Sep 2015), innovation camp participant at Siemens Healthcare 
-  GmbH (Feb - Apr 2012) and research intern at Philips Technology GmbH Research Laboratories (Mar - Jul 2011). 
+  GmbH (Feb - Apr 2012) and research intern at Philips Technology GmbH Research Laboratories (Mar - Jul 2011).
+
+  [LinkedIn](https://www.linkedin.com/in/evargasv/) / Google Scholar / Github / Twitter / CV
 
 # News Section
 more_title: News
