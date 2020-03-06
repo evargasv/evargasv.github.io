@@ -62,7 +62,8 @@ projects_content: | # this will include new lines to allow paragraphs
   **Conferences**
 
   - EUSIPCO
-  <button type="button" class="btn btn-danger">Danger</button>
+  
+  <button type="button" class="btn btn-danger btn-xs">Danger</button>
 
   **Theses**
 
