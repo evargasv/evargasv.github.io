@@ -32,7 +32,7 @@ about_content: | # this will include new lines to allow paragraphs
 projects_title: Publications
 projects_content: | # this will include new lines to allow paragraphs
 
-  **Conferences**
+  <h3>Conferences<h3>
 
   - EUSIPCO
 
