@@ -26,12 +26,13 @@ about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am currently a Research Associate at [ORCA Hub](https://orcahub.org/) working on computer vision for underwater robots. I obtained my PhD in Signal Processing from 
   [Heriot-Watt University](https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems.htm) and my Master's degree in Computer Vision and Robotics from an Erasmus Mundus 
-  Master Programm called [ViBot](https://www.vibot.org/), awarded by *University of Burgundy*, *University of Girona* and *Heriot-Watt University*. I received my 
+  Master Programme called [ViBot](https://www.vibot.org/), awarded by *University of Burgundy*, *University of Girona* and *Heriot-Watt University*. I received my 
   Bachelor's degree in computer science from [Universidad del Valle](http://eisc.univalle.edu.co/index.php/laboratorios/mmv-lab). During my studies, I have also spent time as a research intern at 
-  [Toshiba Medical Visualization Systems](https://research.eu.medical.canon/) and [Philips Research Aachen](https://www.philips.com/a-w/research/locations/aachen.html).
+  [Toshiba Medical Visualization Systems](https://research.eu.medical.canon/) and [Philips Research Aachen](https://www.philips.com/a-w/research/locations/aachen.html), and I participated in an 
+  Innovation Think Tank in [Siemens Healthcare](https://www.siemens-healthineers.com/en-uk/careers/innovation-think-tank).
 
-  [LinkedIn](https://www.linkedin.com/in/evargasv/) / [Google Scholar](https://scholar.google.com/citations?user=SyDXC-MAAAAJ&hl=en) / 
-  [Github](https://github.com/evargasv) / [Twitter](https://twitter.com/elizavargasv) / CV
+  <div style="text-align: right"> [LinkedIn](https://www.linkedin.com/in/evargasv/) / [Google Scholar](https://scholar.google.com/citations?user=SyDXC-MAAAAJ&hl=en) / 
+  [Github](https://github.com/evargasv) / [Twitter](https://twitter.com/elizavargasv) / CV </div>
 
 # News Section
 more_title: News
@@ -50,13 +51,15 @@ experience_content: | # this will include new lines to allow paragraphs
 
   - **2019-Now:** *Research Associate.* [ORCA Hub](https://orcahub.org/).
   - **2015-2019:** *PhD Signal Processing.* [Heriot-Watt University](https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems.htm). Advisors: 
-  Keith Brown and Kartic Subr.  
-  - **2013-2015:** *MSc Computer Vision and Robotics.* Erasmus Mundus Master Program in Computer Vision and Robotics (ViBot). Advisor: Keith Goatman.
-  - **Summer 2015:** *Research Intern.* Toshiba Medical Visualization Systems. Advisor: Corne Hoogendoorn.
-  - **2006-2012:** *BSc in Computer Science.* Universidad del Valle. Advisor: Maria Trujillo.
-  - **Spring 2012:** *Innovation Camp Participant.* Siemens Healthcare. Advisor: Sultan Haider.
-  - **Spring 2011:** *Research Intern.* Philips. Advisor: Martin Weibrecht.
-  - **2010-2011:** *BSc Exchange Student.* Friedrich-Alexander-Universitat Erlangen-Nurnberg. 
+  [Keith Brown](https://researchportal.hw.ac.uk/en/persons/keith-edgar-brown) and [Kartic Subr](http://homepages.inf.ed.ac.uk/ksubr/).  
+  - **2013-2015:** *MSc Computer Vision and Robotics.* Erasmus Mundus Master Programme in Computer Vision and Robotics [(ViBot)](https://www.vibot.org/). Advisor: 
+  [Keith Goatman](https://www.linkedin.com/in/keith-goatman-6a9ab395/?originalSubdomain=uk).
+  - **Summer 2015:** *Research Intern.* [Toshiba Medical Visualization Systems](https://research.eu.medical.canon/). Advisor: [Corne Hoogendoorn](https://scholar.google.com/citations?hl=en&user=F3t43XcAAAAJ&view_op=list_works&sortby=pubdate).
+  - **2006-2012:** *BSc in Computer Science.* [Universidad del Valle](http://eisc.univalle.edu.co/index.php/laboratorios/mmv-lab). Advisor: 
+  [Maria Trujillo](http://eisc.univalle.edu.co/index.php/la-escuela/profesores/maria-patricia-trujillo-uribe).
+  - **Spring 2012:** *Innovation Think Tank Participant.* [Siemens Healthcare](https://www.siemens-healthineers.com/en-uk/careers/innovation-think-tank).
+  - **Spring 2011:** *Research Intern.* [Philips Research Aachen](https://www.philips.com/a-w/research/locations/aachen.html). Advisor: [Martin Weibrecht](https://www.linkedin.com/in/martin-weibrecht-8b133723/).
+  - **2010-2011:** *BSc Exchange Student.* [Friedrich-Alexander-Universitat Erlangen-Nurnberg](https://www.fau.eu/). 
 
 # Publications Section
 projects_title: Publications
