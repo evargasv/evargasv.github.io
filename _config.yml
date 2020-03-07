@@ -65,7 +65,7 @@ projects_content: | # this will include new lines to allow paragraphs
   Approximate TDOA Estimation", in *European Signal Processing Conference*, **(EUSIPCO)**, 
   Rome, Italy, September 2018. ***(Oral Presentation)***
 
-  - *E. Vargas*, K. Brown, K. Subr, "Impact of Microphone Array Configurations on Robust 
+  - **E. Vargas**, K. Brown, K. Subr, "Impact of Microphone Array Configurations on Robust 
   Indirect 3D Acoustic Source Localization", in *International Conference on Acoustics, 
   Speech and Signal Processing* **(ICASSP)**, Calgary, Canada, April 2018. 
   ***(Oral Presentation)***
@@ -80,10 +80,14 @@ projects_content: | # this will include new lines to allow paragraphs
 
   **Theses**
 
-  - **E. Vargas**, "Acoustic Source Localisation in Constrained Environments", *PhD Thesis*, Heriot-Watt University, Edinburgh, United Kingdom, February 2020.
-  - **E. Vargas**, "Texture Enhanced Tissue Analysis", *MSc Thesis*, Erasmus Mundus Master Program in Computer Vision and Robotics (ViBot), Edinburgh, United Kingdom, June 2015.
-  - **E. Vargas**, "Classifying Estimated Corresponding Points by Delaunay Triangulation", *BSc Thesis*, Universidad del Valle, Cali, Colombia, June 2012.
+  - **E. Vargas**, "Acoustic Source Localisation in Constrained Environments", *PhD Thesis*, 
+  Heriot-Watt University, Edinburgh, United Kingdom, February 2020.
 
+  - **E. Vargas**, "Texture Enhanced Tissue Analysis", *MSc Thesis*, Erasmus Mundus Master 
+  Program in Computer Vision and Robotics (ViBot), Edinburgh, United Kingdom, June 2015.
+
+  - **E. Vargas**, "Classifying Estimated Corresponding Points by Delaunay Triangulation", 
+  *BSc Thesis*, Universidad del Valle, Cali, Colombia, June 2012.
 
 # Footer
 footer_show_references: true
