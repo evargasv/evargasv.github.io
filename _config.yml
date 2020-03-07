@@ -37,7 +37,7 @@ more_title: News
 more_content: | # this will include new lines to allow paragraphs
   - **Feb. 2020:** I am one of the organizers of the [Women in Computer Vision Workshop](https://sites.google.com/view/wicvworkshop-eccv2020/) to be held in conjunction with ECCV in Glasgow, United Kingdom.
   - **Jan. 2020:** Our abstract was accepted to [OCEANS](https://singapore20.oceansconference.org/).
-  - **Nov. 2019:** I defended my Phd thesis, titled Acoustic Source Localisation in Constraint Environments. Examiners: [Abderrahim Halimi](https://sites.google.com/site/abderrahimhalimi/) (Heriot-Watt University) 
+  - **Nov. 2019:** I defended my Phd thesis, titled Acoustic Source Localisation in Constrained Environments. Examiners: [Abderrahim Halimi](https://sites.google.com/site/abderrahimhalimi/) (Heriot-Watt University) 
   and [Keith Holland](https://www.southampton.ac.uk/engineering/about/staff/krh.page) (University of Southampton). Slides here.
   - **Oct. 2019:** I participated in the third [ORCA Hub](https://orcahub.org/) demonstrations. Press release [here](https://orcahub.org/articles/a-summary-of-the-blyth-capability-demonstrations).
   - **Jan. 2019:** I joined [ORCA Hub](https://orcahub.org/) as Research Associate.
@@ -61,26 +61,29 @@ projects_content: | # this will include new lines to allow paragraphs
 
   **Conferences**
 
-  - **E. Vargas**, J. R. Hopgood, K. Brown, K. Subr, ``A Compressed Encoding Scheme for 
+  - **E. Vargas**, J. R. Hopgood, K. Brown, K. Subr, "A Compressed Encoding Scheme for 
   Approximate TDOA Estimation", in *European Signal Processing Conference*, **(EUSIPCO)**, 
-  Rome, Italy, September 2018. *(Oral Presentation)*
+  Rome, Italy, September 2018. ***(Oral Presentation)***
 
-  - *E. Vargas*, K. Brown, K. Subr, ``Impact of Microphone Array Configurations on Robust 
+  - *E. Vargas*, K. Brown, K. Subr, "Impact of Microphone Array Configurations on Robust 
   Indirect 3D Acoustic Source Localization", in *International Conference on Acoustics, 
-  Speech and Signal Processing * **(ICASSP)**, Calgary, Canada, April 2018. 
-  *(Oral Presentation)*
+  Speech and Signal Processing* **(ICASSP)**, Calgary, Canada, April 2018. 
+  ***(Oral Presentation)***
 
-  - C. Bustos, **E. Vargas**, M. Trujillo, ``Classifying Estimated Stereo Correspondences 
+  - C. Bustos, **E. Vargas**, M. Trujillo, "Classifying Estimated Stereo Correspondences 
   based on Delaunay Triangulation", in *IberoAmerican Congress on Pattern Recognition*, 
   **(CIARP)**, Lima, Peru, November 2016. 
 
-  - **E. Vargas**, M. Trujillo, ``A Corresponding Points Classification Approach by Delaunay 
+  - **E. Vargas**, M. Trujillo, "A Corresponding Points Classification Approach by Delaunay 
   Triangulation", in *Latin American Conference on Networked and Electronic Media*, 
   **(LACNEM)**, Santiago, Chile, October 2012.
 
   **Theses**
 
-  - PhD thesis
+  - **E. Vargas**, "Acoustic Source Localisation in Constrained Environments", *PhD Thesis*, Heriot-Watt University, Edinburgh, United Kingdom, February 2020.
+  - **E. Vargas**, "Texture Enhanced Tissue Analysis", *MSc Thesis*, Erasmus Mundus Master Program in Computer Vision and Robotics (ViBot), Edinburgh, United Kingdom, June 2015.
+  - **E. Vargas**, "Classifying Estimated Corresponding Points by Delaunay Triangulation", *BSc Thesis*, Universidad del Valle, Cali, Colombia, June 2012.
+
 
 # Footer
 footer_show_references: true
