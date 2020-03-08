@@ -73,21 +73,27 @@ projects_content: | # this will include new lines to allow paragraphs
   - **E. Vargas**, J. R. Hopgood, K. Brown, K. Subr, A Compressed Encoding Scheme for 
   Approximate TDOA Estimation, in *European Signal Processing Conference*, **(EUSIPCO)**, 
   Rome, Italy, September 2018. ***(Oral Presentation)***
-  <a href="publications/conferences/vargas2018_eusipco.pdf">[pdf]</a> 
+  <a href="publications/conferences/vargas2018_eusipco.pdf">[pdf]</a>
+  <a href="publications/conferences/vargas2018_eusipco.bib">[bib]</a>
 
   - **E. Vargas**, K. Brown, K. Subr, Impact of Microphone Array Configurations on Robust 
   Indirect 3D Acoustic Source Localization, in *International Conference on Acoustics, 
   Speech and Signal Processing* **(ICASSP)**, Calgary, Canada, April 2018. 
   ***(Oral Presentation)***
   <a href="publications/conferences/vargas2018_icassp.pdf">[pdf]</a> 
+  <a href="publications/conferences/vargas2018_icassp.bib">[bib]</a>
 
   - C. Bustos, **E. Vargas**, M. Trujillo, Classifying Estimated Stereo Correspondences 
   based on Delaunay Triangulation, in *IberoAmerican Congress on Pattern Recognition*, 
-  **(CIARP)**, Lima, Peru, November 2016. 
+  **(CIARP)**, Lima, Peru, November 2016.
+  <a href="publications/conferences/bustos2016_ciarp.pdf">[pdf]</a> 
+  <a href="publications/conferences/bustos2016_ciarp.bib">[bib]</a>
 
   - **E. Vargas**, M. Trujillo, A Corresponding Points Classification Approach by Delaunay 
   Triangulation, in *Latin American Conference on Networked and Electronic Media*, 
   **(LACNEM)**, Santiago, Chile, October 2012.
+  <a href="publications/conferences/vargas2012)lacnem.pdf">[pdf]</a> 
+  <a href="publications/conferences/vargas2012)lacnem.bib">[bib]</a>
 
   **Theses**
 
