@@ -5,7 +5,9 @@ favicon: images/favicon.ico
 # Personal info
 name: Elizabeth Vargas
 title: Research Associate
-phone: Earl Mountbatten Building, G.06<br> Heriot-Watt University, Edinburgh
+building: Earl Mountbatten Building, G.06
+university: Heriot-Watt University, Edinburgh
+country: United Kingdom, EH14 4AS
 email: elizabeth.vargas@hw.ac.uk
 #website: www.github.com/sproogen/resume-theme
 
