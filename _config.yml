@@ -5,9 +5,9 @@ favicon: images/favicon.ico
 # Personal info
 name: Elizabeth Vargas
 title: Research Associate
-building: Earl Mountbatten Building, G.06
-university: Heriot-Watt University, Edinburgh
-country: United Kingdom, EH14 4AS
+building: Heriot-Watt University
+university: Earl Mountbatten Building, Office G.06
+country: Edinburgh, United Kingdom
 email: elizabeth.vargas@hw.ac.uk
 #website: www.github.com/sproogen/resume-theme
 
@@ -92,8 +92,8 @@ projects_content: | # this will include new lines to allow paragraphs
   - **E. Vargas**, M. Trujillo, A Corresponding Points Classification Approach by Delaunay 
   Triangulation, in *Latin American Conference on Networked and Electronic Media*, 
   **(LACNEM)**, Santiago, Chile, October 2012.
-  <a href="publications/conferences/vargas2012)lacnem.pdf">[pdf]</a> 
-  <a href="publications/conferences/vargas2012)lacnem.bib">[bib]</a>
+  <a href="publications/conferences/vargas2012_lacnem.pdf">[pdf]</a> 
+  <a href="publications/conferences/vargas2012_lacnem.bib">[bib]</a>
 
   **Theses**
 
