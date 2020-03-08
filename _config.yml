@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Elizabeth Vargas
 title: Research Associate
 building: Heriot-Watt University
-university: Earl Mountbatten Building, Office G.06
+university: EM Building, Office G.06
 country: Edinburgh, United Kingdom
 email: elizabeth.vargas@hw.ac.uk
 #website: www.github.com/sproogen/resume-theme
@@ -105,9 +105,13 @@ projects_content: | # this will include new lines to allow paragraphs
 
   - **E. Vargas**, Texture Enhanced Tissue Analysis, *MSc Thesis*, Erasmus Mundus Master 
   Program in Computer Vision and Robotics (ViBot), Edinburgh, United Kingdom, June 2015.
+  <a href="publications/theses/vargas2015_msc.pdf">[pdf]</a> 
+  <a href="publications/theses/vargas2015_msc.bib">[bib]</a> 
 
   - **E. Vargas**, Classifying Estimated Corresponding Points by Delaunay Triangulation, 
   *BSc Thesis*, Universidad del Valle, Cali, Colombia, June 2012.
+  <a href="publications/theses/vargas2012_bsc.pdf">[pdf]</a> 
+  <a href="publications/theses/vargas2012_bsc.bib">[bib]</a> 
 
 # Footer
 footer_show_references: true
