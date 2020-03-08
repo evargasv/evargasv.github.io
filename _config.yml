@@ -87,7 +87,8 @@ projects_content: | # this will include new lines to allow paragraphs
   **Theses**
 
   - **E. Vargas**, Acoustic Source Localisation in Constrained Environments, *PhD Thesis*, 
-  Heriot-Watt University, Edinburgh, United Kingdom, February 2020.
+  Heriot-Watt University, Edinburgh, United Kingdom, February 2020.<br>
+  <mark>[pdf](publications/theses/vargas2020_phd.pdf)</mark>
 
   - **E. Vargas**, Texture Enhanced Tissue Analysis, *MSc Thesis*, Erasmus Mundus Master 
   Program in Computer Vision and Robotics (ViBot), Edinburgh, United Kingdom, June 2015.
