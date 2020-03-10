@@ -117,7 +117,7 @@ projects_content: | # this will include new lines to allow paragraphs
   *BSc Thesis*, Universidad del Valle, Cali, Colombia, June 2012.
   <a href="publications/theses/vargas2012_bsc.pdf">[pdf]</a> 
   <a href="publications/theses/vargas2012_bsc.bib">[bib]</a> 
-  <a href="publications/theses/vargas2012_msc_slides.pdf">[slides]</a>
+  <a href="publications/theses/vargas2012_bsc_slides.pdf">[slides]</a>
 
 # Footer
 footer_show_references: true
