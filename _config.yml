@@ -77,6 +77,7 @@ projects_content: | # this will include new lines to allow paragraphs
   <span style="background-color:#CCEC00"><b>Oral Presentation</b></span>
   <a href="publications/conferences/vargas2018_eusipco.pdf">[pdf]</a>
   <a href="publications/conferences/vargas2018_eusipco.bib">[bib]</a>
+  <a href="publications/conferences/vargas2018_eusipco_slides.pdf">[slides]</a>
 
   - **E. Vargas**, K. Brown, K. Subr, Impact of Microphone Array Configurations on Robust 
   Indirect 3D Acoustic Source Localization, in *International Conference on Acoustics, 
@@ -84,6 +85,7 @@ projects_content: | # this will include new lines to allow paragraphs
   <span style="background-color:#CCEC00"><b>Oral Presentation</b></span>
   <a href="publications/conferences/vargas2018_icassp.pdf">[pdf]</a> 
   <a href="publications/conferences/vargas2018_icassp.bib">[bib]</a>
+  <a href="publications/conferences/vargas2018_icassp_slides.pdf">[slides]</a> 
 
   - C. Bustos, **E. Vargas**, M. Trujillo, Classifying Estimated Stereo Correspondences 
   based on Delaunay Triangulation, in *IberoAmerican Congress on Pattern Recognition*, 
