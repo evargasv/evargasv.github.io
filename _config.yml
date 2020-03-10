@@ -111,13 +111,13 @@ projects_content: | # this will include new lines to allow paragraphs
   VIsion and roBOTics (VIBOT), Edinburgh, United Kingdom, June 2015.
   <a href="publications/theses/vargas2015_msc.pdf">[pdf]</a> 
   <a href="publications/theses/vargas2015_msc.bib">[bib]</a> 
-  <a href="publications/theses/vargas2020_msc_slides.pdf">[slides]</a>
+  <a href="publications/theses/vargas2015_msc_slides.pdf">[slides]</a>
 
   - **E. Vargas**, Classifying Estimated Corresponding Points by Delaunay Triangulation, 
   *BSc Thesis*, Universidad del Valle, Cali, Colombia, June 2012.
   <a href="publications/theses/vargas2012_bsc.pdf">[pdf]</a> 
   <a href="publications/theses/vargas2012_bsc.bib">[bib]</a> 
-  <a href="publications/theses/vargas2020_msc_slides.pdf">[slides]</a>
+  <a href="publications/theses/vargas2012_msc_slides.pdf">[slides]</a>
 
 # Footer
 footer_show_references: true
