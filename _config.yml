@@ -71,50 +71,50 @@ projects_content: | # this will include new lines to allow paragraphs
 
   **Conferences**
 
-  - **E. Vargas**, J. R. Hopgood, K. Brown, K. Subr, A Compressed Encoding Scheme for 
-  Approximate TDOA Estimation, in *European Signal Processing Conference*, **(EUSIPCO)**, 
+  - **E. Vargas**, J. R. Hopgood, K. Brown, K. Subr, *A Compressed Encoding Scheme for 
+  Approximate TDOA Estimation*, in European Signal Processing Conference **(EUSIPCO)**, 
   Rome, Italy, September 2018. 
   <span style="background-color:#CCEC00"><b>Oral Presentation</b></span>
   <a href="publications/conferences/vargas2018_eusipco.pdf">[pdf]</a>
   <a href="publications/conferences/vargas2018_eusipco.bib">[bib]</a>
   <a href="publications/conferences/vargas2018_eusipco_slides.pdf">[slides]</a>
 
-  - **E. Vargas**, K. Brown, K. Subr, Impact of Microphone Array Configurations on Robust 
-  Indirect 3D Acoustic Source Localization, in *International Conference on Acoustics, 
-  Speech and Signal Processing* **(ICASSP)**, Calgary, Canada, April 2018. 
+  - **E. Vargas**, K. Brown, K. Subr, *Impact of Microphone Array Configurations on Robust 
+  Indirect 3D Acoustic Source Localization*, in International Conference on Acoustics, 
+  Speech and Signal Processing **(ICASSP)**, Calgary, Canada, April 2018. 
   <span style="background-color:#CCEC00"><b>Oral Presentation</b></span>
   <a href="publications/conferences/vargas2018_icassp.pdf">[pdf]</a> 
   <a href="publications/conferences/vargas2018_icassp.bib">[bib]</a>
   <a href="publications/conferences/vargas2018_icassp_slides.pdf">[slides]</a> 
 
-  - C. Bustos, **E. Vargas**, M. Trujillo, Classifying Estimated Stereo Correspondences 
-  based on Delaunay Triangulation, in *IberoAmerican Congress on Pattern Recognition*, 
+  - C. Bustos, **E. Vargas**, M. Trujillo, *Classifying Estimated Stereo Correspondences 
+  based on Delaunay Triangulation*, in IberoAmerican Congress on Pattern Recognition 
   **(CIARP)**, Lima, Peru, November 2016.
   <a href="publications/conferences/bustos2016_ciarp.pdf">[pdf]</a> 
   <a href="publications/conferences/bustos2016_ciarp.bib">[bib]</a>
 
-  - **E. Vargas**, M. Trujillo, A Corresponding Points Classification Approach by Delaunay 
-  Triangulation, in *Latin American Conference on Networked and Electronic Media*, 
+  - **E. Vargas**, M. Trujillo, *A Corresponding Points Classification Approach by Delaunay 
+  Triangulation*, in Latin American Conference on Networked and Electronic Media  
   **(LACNEM)**, Santiago, Chile, October 2012.
   <a href="publications/conferences/vargas2012_lacnem.pdf">[pdf]</a> 
   <a href="publications/conferences/vargas2012_lacnem.bib">[bib]</a>
 
   **Theses**
 
-  - **E. Vargas**, Acoustic Source Localisation in Constrained Environments, *PhD Thesis*, 
+  - **E. Vargas**, *Acoustic Source Localisation in Constrained Environments*, PhD Thesis, 
   Heriot-Watt University, Edinburgh, United Kingdom, February 2020. 
   <a href="publications/theses/vargas2020_phd.pdf">[pdf]</a> 
   <a href="publications/theses/vargas2020_phd.bib">[bib]</a> 
   <a href="publications/theses/vargas2020_phd_slides.pdf">[slides]</a> 
 
-  - **E. Vargas**, Texture Enhanced Tissue Analysis, *MSc Thesis*, Erasmus Mundus Masters in 
+  - **E. Vargas**, *Texture Enhanced Tissue Analysis*, MSc Thesis, Erasmus Mundus Masters in 
   VIsion and roBOTics (VIBOT), Edinburgh, United Kingdom, June 2015.
   <a href="publications/theses/vargas2015_msc.pdf">[pdf]</a> 
   <a href="publications/theses/vargas2015_msc.bib">[bib]</a> 
   <a href="publications/theses/vargas2015_msc_slides.pdf">[slides]</a>
 
-  - **E. Vargas**, Classifying Estimated Corresponding Points by Delaunay Triangulation, 
-  *BSc Thesis*, Universidad del Valle, Cali, Colombia, June 2012.
+  - **E. Vargas**, *Classifying Estimated Corresponding Points by Delaunay Triangulation*, 
+  BSc Thesis, Universidad del Valle, Cali, Colombia, June 2012.
   <a href="publications/theses/vargas2012_bsc.pdf">[pdf]</a> 
   <a href="publications/theses/vargas2012_bsc.bib">[bib]</a> 
   <a href="publications/theses/vargas2012_bsc_slides.pdf">[slides]</a>
