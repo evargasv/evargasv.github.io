@@ -70,7 +70,7 @@ experience_content: | # this will include new lines to allow paragraphs
 projects_title: Publications
 projects_content: | # this will include new lines to allow paragraphs
 
-  <font size="4"><b>Conferences</b></font>
+  <font size="5"><b>Conferences</b></font>
 
   - **E. Vargas**, J. R. Hopgood, K. Brown, K. Subr, *A Compressed Encoding Scheme for 
   Approximate TDOA Estimation*, in European Signal Processing Conference **(EUSIPCO)**, 
@@ -100,7 +100,7 @@ projects_content: | # this will include new lines to allow paragraphs
   <a href="publications/conferences/vargas2012_lacnem.pdf">[pdf]</a> 
   <a href="publications/conferences/vargas2012_lacnem.bib">[bib]</a>
 
-  **Theses**
+  <font size="5"><b>Theses</b></font>
 
   - **E. Vargas**, *Acoustic Source Localisation in Constrained Environments*, PhD Thesis, 
   Heriot-Watt University, Edinburgh, United Kingdom, February 2020. 
