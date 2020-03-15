@@ -70,7 +70,7 @@ experience_content: | # this will include new lines to allow paragraphs
 projects_title: Publications
 projects_content: | # this will include new lines to allow paragraphs
 
-  <font size="20"><br>Conferences</br></font>
+  <font size="14"><b>Conferences</b></font>
 
   - **E. Vargas**, J. R. Hopgood, K. Brown, K. Subr, *A Compressed Encoding Scheme for 
   Approximate TDOA Estimation*, in European Signal Processing Conference **(EUSIPCO)**, 
