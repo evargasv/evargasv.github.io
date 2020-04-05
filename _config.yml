@@ -28,12 +28,14 @@ title: Research Associate
 # about_title: About Me
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am currently a Research Associate at [ORCA Hub](https://orcahub.org/) working on computer vision for underwater robots. I obtained my PhD in Signal Processing from 
-  [Heriot-Watt University](https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems.htm) and my Master's degree in Computer Vision and Robotics via an Erasmus Mundus 
-  Master Programme called [VIBOT](https://www.vibot.org/), awarded by the *University of Burgundy*, *University of Girona* and *Heriot-Watt University*. I received my 
-  Bachelor's degree in computer science from [Universidad del Valle](http://eisc.univalle.edu.co/index.php/laboratorios/mmv-lab). During my studies, I have also spent time as a research intern at 
-  [Toshiba Medical Visualization Systems](https://research.eu.medical.canon/) and [Philips Research Aachen](https://www.philips.com/a-w/research/locations/aachen.html), and participated in an 
-  Innovation Think Tank organised by [Siemens Healthcare](https://www.siemens-healthineers.com/en-uk/careers/innovation-think-tank).
+  I am currently a Research Associate at <a href="https://orcahub.org/" target="_blank">ORCA Hub</a> working on computer vision for underwater robots. I obtained my PhD in Signal 
+  Processing from <a href="https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems.htm" target="_blank">Heriot-Watt University</a> and my 
+  Master's degree in Computer Vision and Robotics via an Erasmus Mundus Master Programme called <a href="https://www.vibot.org/" target="_blank">VIBOT</a>, awarded by the 
+  *University of Burgundy*, *University of Girona* and *Heriot-Watt University*. I received my Bachelor's degree in computer science from 
+  <a href="http://eisc.univalle.edu.co/index.php/laboratorios/mmv-lab" target="_blank">Universidad del Valle</a>. During my studies, I have also spent time as a research intern 
+  at <a href="https://research.eu.medical.canon/" target="_blank">Toshiba Medical Visualization Systems</a> and 
+  <a href="https://www.philips.com/a-w/research/locations/aachen.html" target="_blank">Philips Research Aachen</a>, and participated in an Innovation Think Tank organised by 
+  <a href="https://www.siemens-healthineers.com/en-uk/careers/innovation-think-tank" target="_blank">Siemens Healthcare</a>.
 
   <a href="https://mailhide.io/e/322Ka" target="_blank">Email</a> / 
   <a href="https://www.linkedin.com/in/evargasv/" target="_blank">LinkedIn</a> / 
@@ -45,30 +47,46 @@ about_content: | # this will include new lines to allow paragraphs
 # News Section
 more_title: News
 more_content: | # this will include new lines to allow paragraphs
-  - **Feb. 2020:** I am one of the organisers of the [Women in Computer Vision Workshop](https://sites.google.com/view/wicvworkshop-eccv2020/) to be held in conjunction with [ECCV 2020](https://eccv2020.eu/) 
-  in Glasgow, United Kingdom.
-  - **Jan. 2020:** Our abstract *Smart Underwater Vision: Image Enhancement for Underwater 3D Mapping in the Challenging Environment* was accepted to [OCEANS 2020](https://singapore20.oceansconference.org/).
-  - **Nov. 2019:** I defended my PhD thesis, titled [Acoustic Source Localisation in Constrained Environments](publications/theses/vargas2020_phd.pdf). Examiners: [Abderrahim Halimi](https://sites.google.com/site/abderrahimhalimi/) (Heriot-Watt University) 
-  and [Keith Holland](https://www.southampton.ac.uk/engineering/about/staff/krh.page) (University of Southampton). Slides [here](publications/theses/vargas2020_phd_slides.pdf).
-  - **Oct. 2019:** I participated in the third [ORCA Hub](https://orcahub.org/) demonstrations. Press release [here](https://orcahub.org/articles/a-summary-of-the-blyth-capability-demonstrations).
-  - **Jan. 2019:** I joined [ORCA Hub](https://orcahub.org/) as a Research Associate.
+  - **Feb. 2020:** I am one of the organisers of the <a href="https://sites.google.com/view/wicvworkshop-eccv2020/" target="_blank">Women in Computer Vision Workshop</a> to be 
+  held in conjunction with <a href="https://eccv2020.eu/" target="_blank">ECCV 2020</a> in Glasgow, United Kingdom.
+  - **Jan. 2020:** Our abstract *Smart Underwater Vision: Image Enhancement for Underwater 3D Mapping in the Challenging Environment* was accepted to 
+  <a href="https://singapore20.oceansconference.org/" target="_blank">OCEANS 2020</a>.
+  - **Nov. 2019:** I defended my PhD thesis, titled <a href="publications/theses/vargas2020_phd.pdf" target="_blank">Acoustic Source Localisation in Constrained Environments</a>. 
+  Examiners: <a href="https://sites.google.com/site/abderrahimhalimi/" target="_blank">Abderrahim Halimi</a> (Heriot-Watt University) 
+  and <a href="https://www.southampton.ac.uk/engineering/about/staff/krh.page" target="_blank">Keith Holland</a> (University of Southampton). 
+  Slides <a href="publications/theses/vargas2020_phd_slides.pdf" target="_blank">here</a>.
+  - **Oct. 2019:** I participated in the third <a href="https://orcahub.org/" target="_blank">ORCA Hub</a> demonstrations. 
+  Press release <a href="https://orcahub.org/articles/a-summary-of-the-blyth-capability-demonstrations" target="_blank">here</a>.
+  - **Jan. 2019:** I joined <a href="https://orcahub.org/" target="_blank">ORCA Hub</a> as a Research Associate.
 
 # Timeline Section
 experience_title: Timeline
 experience_content: | # this will include new lines to allow paragraphs
 
-  - **2019-Present:** <font color="#2F4F4F"><b>Research Associate.</b></font> [ORCA Hub](https://orcahub.org/).
-  - **2015-2019:** <font color="#2F4F4F"><b>PhD Signal Processing.</b></font> [Heriot-Watt University](https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems.htm). Advisors: 
-  [Keith Brown](https://researchportal.hw.ac.uk/en/persons/keith-edgar-brown) and [Kartic Subr](http://homepages.inf.ed.ac.uk/ksubr/).  
-  - **2013-2015:** <font color="#2F4F4F"><b>MSc Computer Vision and Robotics.</b></font> [Erasmus Mundus Masters in Vision and Robotics](https://www.vibot.org/). Advisor: 
-  [Keith Goatman](https://www.linkedin.com/in/keith-goatman-6a9ab395/?originalSubdomain=uk).
-  - **Summer 2015:** <font color="#2F4F4F"><b>Research Intern.</b></font> [Toshiba Medical Visualization Systems](https://research.eu.medical.canon/). Advisor: [Corne Hoogendoorn](https://scholar.google.com/citations?hl=en&user=F3t43XcAAAAJ&view_op=list_works&sortby=pubdate).
-  - **2012-2013:** <font color="#2F4F4F"><b>Project Engineer.</b></font> [IVU Traffic Technologies](https://www.ivu.com/).
-  - **2006-2012:** <font color="#2F4F4F"><b>BSc Computer Science.</b></font> [Universidad del Valle](http://eisc.univalle.edu.co/index.php/laboratorios/mmv-lab). Advisor: 
-  [Maria Trujillo](http://eisc.univalle.edu.co/index.php/la-escuela/profesores/maria-patricia-trujillo-uribe).
-  - **Spring 2012:** <font color="#2F4F4F"><b>Innovation Think Tank Participant.</b></font> [Siemens Healthcare](https://www.siemens-healthineers.com/en-uk/careers/innovation-think-tank).
-  - **Spring 2011:** <font color="#2F4F4F"><b>Research Intern.</b></font> [Philips Research Aachen](https://www.philips.com/a-w/research/locations/aachen.html). Advisor: [Martin Weibrecht](https://www.linkedin.com/in/martin-weibrecht-8b133723/).
-  - **2010-2011:** <font color="#2F4F4F"><b>BSc Exchange Student.</b></font> [Friedrich-Alexander-Universitat Erlangen-Nurnberg](https://www.fau.eu/). 
+  - **2019-Present:** <font color="#2F4F4F"><b>Research Associate.</b></font> 
+  <a href="https://orcahub.org/" target="_blank">ORCA Hub</a>.
+  - **2015-2019:** <font color="#2F4F4F"><b>PhD Signal Processing.</b></font> 
+  <a href="https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems.htm" target="_blank">Heriot-Watt University</a>. 
+  Advisors: <a href="https://researchportal.hw.ac.uk/en/persons/keith-edgar-brown" target="_blank">Keith Brown</a> and 
+  <a href="http://homepages.inf.ed.ac.uk/ksubr/" target="_blank">Kartic Subr</a>.  
+  - **2013-2015:** <font color="#2F4F4F"><b>MSc Computer Vision and Robotics.</b></font> 
+  <a href="https://www.vibot.org/" target="_blank">Erasmus Mundus Masters in Vision and Robotics</a>. 
+  Advisor: <a href="https://scholar.google.co.uk/citations?hl=en&user=54HbSNQAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Keith Goatman</a>.
+  - **Summer 2015:** <font color="#2F4F4F"><b>Research Intern.</b></font> 
+  <a href="https://research.eu.medical.canon/" target="_blank">Toshiba Medical Visualization Systems</a>. 
+  Advisor: <a href="https://scholar.google.com/citations?hl=en&user=F3t43XcAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Corn&#233; Hoogendoorn</a>.
+  - **2012-2013:** <font color="#2F4F4F"><b>Project Engineer.</b></font> 
+  <a href="https://www.ivu.com/" target="_blank">IVU Traffic Technologies</a>.
+  - **2006-2012:** <font color="#2F4F4F"><b>BSc Computer Science.</b></font> 
+  <a href="http://eisc.univalle.edu.co/index.php/laboratorios/mmv-lab" target="_blank">Universidad del Valle</a>. 
+  Advisor: <a href="http://eisc.univalle.edu.co/index.php/la-escuela/profesores/maria-patricia-trujillo-uribe" target="_blank">Maria Trujillo</a>.
+  - **Spring 2012:** <font color="#2F4F4F"><b>Innovation Think Tank Participant.</b></font>
+  <a href="https://www.siemens-healthineers.com/en-uk/careers/innovation-think-tank" target="_blank">Siemens Healthcare</a>.
+  - **Spring 2011:** <font color="#2F4F4F"><b>Research Intern.</b></font> 
+  <a href="https://www.philips.com/a-w/research/locations/aachen.html" target="_blank">Philips Research Aachen</a>. 
+  Advisor: <a href="https://www.linkedin.com/in/martin-weibrecht-8b133723/" target="_blank">Martin Weibrecht</a>.
+  - **2010-2011:** <font color="#2F4F4F"><b>BSc Exchange Student.</b></font>
+  <a href="https://www.informatik.uni-erlangen.de/department/" target="_blank">Friedrich-Alexander-Universit&#228;t Erlangen-N&#252;rnberg</a>. 
 
 # Publications Section
 projects_title: Publications
