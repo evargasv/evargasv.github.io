@@ -35,8 +35,12 @@ about_content: | # this will include new lines to allow paragraphs
   [Toshiba Medical Visualization Systems](https://research.eu.medical.canon/) and [Philips Research Aachen](https://www.philips.com/a-w/research/locations/aachen.html), and participated in an 
   Innovation Think Tank organised by [Siemens Healthcare](https://www.siemens-healthineers.com/en-uk/careers/innovation-think-tank).
 
-  <a href="https://mailhide.io/e/322Ka" target="_blank">Email</a> / [LinkedIn](https://www.linkedin.com/in/evargasv/) / [Google Scholar](https://scholar.google.com/citations?user=SyDXC-MAAAAJ&hl=en) / 
-  [Github](https://github.com/evargasv) / [Twitter](https://twitter.com/elizavargasv) / [CV](cv/vargas_cv.pdf)
+  <a href="https://mailhide.io/e/322Ka" target="_blank">Email</a> / 
+  <a href="https://www.linkedin.com/in/evargasv/" target="_blank">LinkedIn</a> / 
+  <a href="https://scholar.google.com/citations?user=SyDXC-MAAAAJ&hl=en" target="_blank">Google Scholar</a> / 
+  <a href="https://github.com/evargasv" target="_blank">Github</a> / 
+  <a href="https://twitter.com/elizavargasv" target="_blank">Twitter</a> / 
+  <a href="cv/vargas_cv.pdf" target="_blank">CV</a>
 
 # News Section
 more_title: News
@@ -76,49 +80,49 @@ projects_content: | # this will include new lines to allow paragraphs
   Approximate TDOA Estimation*, in European Signal Processing Conference **(EUSIPCO)**, 
   Rome, Italy, September 2018. 
   <span style="background-color:#CCEC00"><b>Oral Presentation</b></span>
-  <a href="publications/conferences/vargas2018_eusipco.pdf">[pdf]</a>
+  <a href="publications/conferences/vargas2018_eusipco.pdf" target="_blank">[pdf]</a>
   <a href="publications/conferences/vargas2018_eusipco.bib">[bib]</a>
-  <a href="publications/conferences/vargas2018_eusipco_slides.pdf">[slides]</a>
+  <a href="publications/conferences/vargas2018_eusipco_slides.pdf" target="_blank">[slides]</a>
 
   - **E. Vargas**, K. Brown, K. Subr, *Impact of Microphone Array Configurations on Robust 
   Indirect 3D Acoustic Source Localization*, in International Conference on Acoustics, 
   Speech and Signal Processing **(ICASSP)**, Calgary, Canada, April 2018. 
   <span style="background-color:#CCEC00"><b>Oral Presentation</b></span>
-  <a href="publications/conferences/vargas2018_icassp.pdf">[pdf]</a> 
+  <a href="publications/conferences/vargas2018_icassp.pdf" target="_blank">[pdf]</a> 
   <a href="publications/conferences/vargas2018_icassp.bib">[bib]</a>
-  <a href="publications/conferences/vargas2018_icassp_slides.pdf">[slides]</a> 
+  <a href="publications/conferences/vargas2018_icassp_slides.pdf" target="_blank">[slides]</a> 
 
   - C. Bustos, **E. Vargas**, M. Trujillo, *Classifying Estimated Stereo Correspondences 
   based on Delaunay Triangulation*, in IberoAmerican Congress on Pattern Recognition 
   **(CIARP)**, Lima, Peru, November 2016.
-  <a href="publications/conferences/bustos2016_ciarp.pdf">[pdf]</a> 
+  <a href="publications/conferences/bustos2016_ciarp.pdf" target="_blank">[pdf]</a> 
   <a href="publications/conferences/bustos2016_ciarp.bib">[bib]</a>
 
   - **E. Vargas**, M. Trujillo, *A Corresponding Points Classification Approach by Delaunay 
   Triangulation*, in Latin American Conference on Networked and Electronic Media 
   **(LACNEM)**, Santiago, Chile, October 2012.
-  <a href="publications/conferences/vargas2012_lacnem.pdf">[pdf]</a> 
+  <a href="publications/conferences/vargas2012_lacnem.pdf" target="_blank">[pdf]</a> 
   <a href="publications/conferences/vargas2012_lacnem.bib">[bib]</a>
 
   <font size="4"><b>Theses</b></font>
 
   - **E. Vargas**, *Acoustic Source Localisation in Constrained Environments*, PhD Thesis, 
   Heriot-Watt University, Edinburgh, United Kingdom, February 2020. 
-  <a href="publications/theses/vargas2020_phd.pdf">[pdf]</a> 
+  <a href="publications/theses/vargas2020_phd.pdf" target="_blank">[pdf]</a> 
   <a href="publications/theses/vargas2020_phd.bib">[bib]</a> 
-  <a href="publications/theses/vargas2020_phd_slides.pdf">[slides]</a> 
+  <a href="publications/theses/vargas2020_phd_slides.pdf" target="_blank">[slides]</a> 
 
   - **E. Vargas**, *Texture Enhanced Tissue Analysis*, MSc Thesis, Erasmus Mundus Masters in 
   Vision and Robotics, Edinburgh, United Kingdom, June 2015.
-  <a href="publications/theses/vargas2015_msc.pdf">[pdf]</a> 
+  <a href="publications/theses/vargas2015_msc.pdf" target="_blank">[pdf]</a> 
   <a href="publications/theses/vargas2015_msc.bib">[bib]</a> 
-  <a href="publications/theses/vargas2015_msc_slides.pdf">[slides]</a>
+  <a href="publications/theses/vargas2015_msc_slides.pdf" target="_blank">[slides]</a>
 
   - **E. Vargas**, *Classifying Estimated Corresponding Points by Delaunay Triangulation*, 
   BSc Thesis, Universidad del Valle, Cali, Colombia, June 2012.
-  <a href="publications/theses/vargas2012_bsc.pdf">[pdf]</a> 
+  <a href="publications/theses/vargas2012_bsc.pdf" target="_blank">[pdf]</a> 
   <a href="publications/theses/vargas2012_bsc.bib">[bib]</a> 
-  <a href="publications/theses/vargas2012_bsc_slides.pdf">[slides]</a>
+  <a href="publications/theses/vargas2012_bsc_slides.pdf" target="_blank">[slides]</a>
 
 # Footer
 footer_show_references: true
