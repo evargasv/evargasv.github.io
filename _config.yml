@@ -97,15 +97,13 @@ projects_content: | # this will include new lines to allow paragraphs
   - **E. Vargas**, J. R. Hopgood, K. Brown, K. Subr, *A Compressed Encoding Scheme for 
   Approximate TDOA Estimation*, in European Signal Processing Conference **(EUSIPCO)**, 
   Rome, Italy, September 2018. 
-  <span style="background-color:rgba(204, 236, 0, 0.6);"><b>Oral Presentation</b></span>
   <a href="publications/conferences/vargas2018_eusipco.pdf" target="_blank">[pdf]</a>
   <a href="publications/conferences/vargas2018_eusipco.bib">[bib]</a>
   <a href="publications/conferences/vargas2018_eusipco_slides.pdf" target="_blank">[slides]</a>
 
   - **E. Vargas**, K. Brown, K. Subr, *Impact of Microphone Array Configurations on Robust 
   Indirect 3D Acoustic Source Localization*, in International Conference on Acoustics, 
-  Speech and Signal Processing **(ICASSP)**, Calgary, Canada, April 2018. 
-  <span style="background-color:rgba(204, 236, 0, 0.6);"><b>Oral Presentation</b></span>
+  Speech and Signal Processing **(ICASSP)**, Calgary, Canada, April 2018.
   <a href="publications/conferences/vargas2018_icassp.pdf" target="_blank">[pdf]</a> 
   <a href="publications/conferences/vargas2018_icassp.bib">[bib]</a>
   <a href="publications/conferences/vargas2018_icassp_slides.pdf" target="_blank">[slides]</a> 
