@@ -95,8 +95,8 @@ projects_content: | # this will include new lines to allow paragraphs
 
   <font size="4"><b>Conferences</b></font>
 
-  - **E. Vargas**, J. R. Hopgood, K. Brown, K. Subr, **A Compressed Encoding Scheme for 
-  Approximate TDOA Estimation**, in European Signal Processing Conference (EUSIPCO), 
+  - **E. Vargas**, J. R. Hopgood, K. Brown, K. Subr, A Compressed Encoding Scheme for 
+  Approximate TDOA Estimation, in European Signal Processing Conference **(EUSIPCO)**, 
   Rome, Italy, September 2018. 
   <a href="publications/conferences/vargas2018_eusipco.pdf" target="_blank">[pdf]</a>
   <a href="publications/conferences/vargas2018_eusipco.bib">[bib]</a>
