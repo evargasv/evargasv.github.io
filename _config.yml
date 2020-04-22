@@ -74,11 +74,11 @@ more_content: | # this will include new lines to allow paragraphs
   in Edinburgh, United Kingdom. 
 
 # Timeline Section
-experience_title: Timeline
+experience_title: Experience &#38; Education
 experience_content: | # this will include new lines to allow paragraphs
 
   - **2019-Present:** <font color="#2F4F4F"><b>Research Associate.</b></font> 
-  <a href="https://orcahub.org/" target="_blank">ORCA Hub</a>.
+  <a href="https://orcahub.org/" target="_blank">ORCA Hub</a>. Mapping, Surveying &#38; Inspection.
   - **2015-2019:** <font color="#2F4F4F"><b>PhD Signal Processing.</b></font> 
   <a href="https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems.htm" target="_blank">Heriot-Watt University</a>. 
   Advisors: <a href="https://researchportal.hw.ac.uk/en/persons/keith-edgar-brown" target="_blank">Keith Brown</a> and 
