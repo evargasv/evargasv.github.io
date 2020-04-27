@@ -74,33 +74,33 @@ more_content: | # this will include new lines to allow paragraphs
   in Edinburgh, United Kingdom. 
 
 # Timeline Section
-experience_title: Experience and Education
-experience_content: | # this will include new lines to allow paragraphs
+# experience_title: Experience and Education
+# experience_content: | # this will include new lines to allow paragraphs
 
-  - **2019-Present:** <font color="#2F4F4F"><b>Research Associate.</b></font> 
-  <a href="https://orcahub.org/" target="_blank">ORCA Hub</a>. Mapping, surveying and inspection.
-  - **2015-2019:** <font color="#2F4F4F"><b>PhD Signal Processing.</b></font> 
-  <a href="https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems.htm" target="_blank">Heriot-Watt University</a>. 
-  Advisors: <a href="https://researchportal.hw.ac.uk/en/persons/keith-edgar-brown" target="_blank">Keith Brown</a> and 
-  <a href="http://homepages.inf.ed.ac.uk/ksubr/" target="_blank">Kartic Subr</a>.  
-  - **2013-2015:** <font color="#2F4F4F"><b>MSc Computer Vision and Robotics.</b></font> 
-  <a href="https://www.vibot.org/" target="_blank">Erasmus Mundus Masters in Vision and Robotics</a>. 
-  Advisor: <a href="https://scholar.google.co.uk/citations?hl=en&user=54HbSNQAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Keith Goatman</a>.
-  - **Summer 2015:** <font color="#2F4F4F"><b>Research Intern.</b></font> 
-  <a href="https://research.eu.medical.canon/" target="_blank">Toshiba Medical Visualization Systems</a>. 
-  Advisor: <a href="https://scholar.google.com/citations?hl=en&user=F3t43XcAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Corn&#233; Hoogendoorn</a>.
-  - **2012-2013:** <font color="#2F4F4F"><b>Project Engineer.</b></font> 
-  <a href="https://www.ivu.com/" target="_blank">IVU Traffic Technologies</a>.
-  - **2006-2012:** <font color="#2F4F4F"><b>BSc Computer Science.</b></font> 
-  <a href="http://eisc.univalle.edu.co/index.php/laboratorios/mmv-lab" target="_blank">Universidad del Valle</a>. 
-  Advisor: <a href="http://eisc.univalle.edu.co/index.php/la-escuela/profesores/maria-patricia-trujillo-uribe" target="_blank">Mar&#237;a Trujillo</a>.
-  - **Spring 2012:** <font color="#2F4F4F"><b>Innovation Think Tank Participant.</b></font>
-  <a href="https://www.siemens-healthineers.com/en-uk/careers/innovation-think-tank" target="_blank">Siemens Healthcare</a>.
-  - **Spring 2011:** <font color="#2F4F4F"><b>Research Intern.</b></font> 
-  <a href="https://www.philips.com/a-w/research/locations/aachen.html" target="_blank">Philips Research Aachen</a>. 
-  Advisor: <a href="https://www.linkedin.com/in/martin-weibrecht-8b133723/" target="_blank">Martin Weibrecht</a>.
-  - **2010-2011:** <font color="#2F4F4F"><b>BSc Exchange Student.</b></font>
-  <a href="https://www.informatik.uni-erlangen.de/department/" target="_blank">Friedrich-Alexander-Universit&#228;t Erlangen-N&#252;rnberg</a>. 
+#   - **2019-Present:** <font color="#2F4F4F"><b>Research Associate.</b></font> 
+#   <a href="https://orcahub.org/" target="_blank">ORCA Hub</a>. Mapping, surveying and inspection.
+#   - **2015-2019:** <font color="#2F4F4F"><b>PhD Signal Processing.</b></font> 
+#   <a href="https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems.htm" target="_blank">Heriot-Watt University</a>. 
+#   Advisors: <a href="https://researchportal.hw.ac.uk/en/persons/keith-edgar-brown" target="_blank">Keith Brown</a> and 
+#   <a href="http://homepages.inf.ed.ac.uk/ksubr/" target="_blank">Kartic Subr</a>.  
+#   - **2013-2015:** <font color="#2F4F4F"><b>MSc Computer Vision and Robotics.</b></font> 
+#   <a href="https://www.vibot.org/" target="_blank">Erasmus Mundus Masters in Vision and Robotics</a>. 
+#   Advisor: <a href="https://scholar.google.co.uk/citations?hl=en&user=54HbSNQAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Keith Goatman</a>.
+#   - **Summer 2015:** <font color="#2F4F4F"><b>Research Intern.</b></font> 
+#   <a href="https://research.eu.medical.canon/" target="_blank">Toshiba Medical Visualization Systems</a>. 
+#   Advisor: <a href="https://scholar.google.com/citations?hl=en&user=F3t43XcAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Corn&#233; Hoogendoorn</a>.
+#   - **2012-2013:** <font color="#2F4F4F"><b>Project Engineer.</b></font> 
+#   <a href="https://www.ivu.com/" target="_blank">IVU Traffic Technologies</a>.
+#   - **2006-2012:** <font color="#2F4F4F"><b>BSc Computer Science.</b></font> 
+#   <a href="http://eisc.univalle.edu.co/index.php/laboratorios/mmv-lab" target="_blank">Universidad del Valle</a>. 
+#   Advisor: <a href="http://eisc.univalle.edu.co/index.php/la-escuela/profesores/maria-patricia-trujillo-uribe" target="_blank">Mar&#237;a Trujillo</a>.
+#   - **Spring 2012:** <font color="#2F4F4F"><b>Innovation Think Tank Participant.</b></font>
+#   <a href="https://www.siemens-healthineers.com/en-uk/careers/innovation-think-tank" target="_blank">Siemens Healthcare</a>.
+#   - **Spring 2011:** <font color="#2F4F4F"><b>Research Intern.</b></font> 
+#   <a href="https://www.philips.com/a-w/research/locations/aachen.html" target="_blank">Philips Research Aachen</a>. 
+#   Advisor: <a href="https://www.linkedin.com/in/martin-weibrecht-8b133723/" target="_blank">Martin Weibrecht</a>.
+#   - **2010-2011:** <font color="#2F4F4F"><b>BSc Exchange Student.</b></font>
+#   <a href="https://www.informatik.uni-erlangen.de/department/" target="_blank">Friedrich-Alexander-Universit&#228;t Erlangen-N&#252;rnberg</a>. 
 
 # Publications Section
 projects_title: Publications
