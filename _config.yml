@@ -108,27 +108,37 @@ projects_content: | # this will include new lines to allow paragraphs
 
   <font size="4"><b>Conferences</b></font>
 
-  - **E. Vargas**, J. R. Hopgood, K. Brown, K. Subr, A Compressed Encoding Scheme for 
-  Approximate TDOA Estimation, in European Signal Processing Conference **(EUSIPCO)**, 
+  - **E. Vargas**, 
+  <a href="https://www.research.ed.ac.uk/portal/en/persons/james-hopgood(c362f445-56b9-44da-b350-c9b32f9f762e)/cv.html?id=10175408" target="_blank">J. R. Hopgood</a>, 
+  <a href="https://researchportal.hw.ac.uk/en/persons/keith-edgar-brown" target="_blank">K. Brown</a>, 
+  <a href="http://homepages.inf.ed.ac.uk/ksubr/" target="_blank">K. Subr</a>, 
+  A Compressed Encoding Scheme for Approximate TDOA Estimation, in European Signal Processing Conference **(EUSIPCO)**, 
   Rome, Italy, September 2018. 
   <a href="publications/conferences/vargas2018_eusipco.pdf" target="_blank">[pdf]</a>
   <a href="publications/conferences/vargas2018_eusipco.bib">[bib]</a>
   <a href="publications/conferences/vargas2018_eusipco_slides.pdf" target="_blank">[slides]</a>
 
-  - **E. Vargas**, K. Brown, K. Subr, Impact of Microphone Array Configurations on Robust 
+  - **E. Vargas**, 
+  <a href="https://researchportal.hw.ac.uk/en/persons/keith-edgar-brown" target="_blank">K. Brown</a>, 
+  <a href="http://homepages.inf.ed.ac.uk/ksubr/" target="_blank">K. Subr</a>, 
+  Impact of Microphone Array Configurations on Robust 
   Indirect 3D Acoustic Source Localization, in International Conference on Acoustics, 
   Speech and Signal Processing **(ICASSP)**, Calgary, Canada, April 2018.
   <a href="publications/conferences/vargas2018_icassp.pdf" target="_blank">[pdf]</a> 
   <a href="publications/conferences/vargas2018_icassp.bib">[bib]</a>
   <a href="publications/conferences/vargas2018_icassp_slides.pdf" target="_blank">[slides]</a> 
 
-  - C. Bustos, **E. Vargas**, M. Trujillo, Classifying Estimated Stereo Correspondences 
+  - C. Bustos, **E. Vargas**, 
+  <a href="http://eisc.univalle.edu.co/index.php/la-escuela/profesores/maria-patricia-trujillo-uribe" target="_blank">M. Trujillo</a>, 
+  Classifying Estimated Stereo Correspondences 
   based on Delaunay Triangulation, in IberoAmerican Congress on Pattern Recognition 
   **(CIARP)**, Lima, Peru, November 2016.
   <a href="publications/conferences/bustos2016_ciarp.pdf" target="_blank">[pdf]</a> 
   <a href="publications/conferences/bustos2016_ciarp.bib">[bib]</a>
 
-  - **E. Vargas**, M. Trujillo, A Corresponding Points Classification Approach by Delaunay 
+  - **E. Vargas**, 
+  <a href="http://eisc.univalle.edu.co/index.php/la-escuela/profesores/maria-patricia-trujillo-uribe" target="_blank">M. Trujillo</a>, 
+  A Corresponding Points Classification Approach by Delaunay 
   Triangulation, in Latin American Conference on Networked and Electronic Media 
   **(LACNEM)**, Santiago, Chile, October 2012.
   <a href="publications/conferences/vargas2012_lacnem.pdf" target="_blank">[pdf]</a> 
