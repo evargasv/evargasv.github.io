@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
 # News Section
 more_title: News
 more_content: | # this will include new lines to allow paragraphs
-  <table style="width:100%;font-size: 1rem;">
+  <table style="width:100%;font-size:1rem;border:none">
 
   <tr>
       <td style="width:130px"><b>Feb. 2020</b></td>
@@ -73,9 +73,9 @@ more_content: | # this will include new lines to allow paragraphs
   </tr>
 
   <tr>
-      <td style="width:130px"><b>Oct. 2019</b>I participated in the third <a href="https://orcahub.org/" target="_blank">ORCA Hub</a> demonstrations. 
+      <td style="width:130px"><b>Oct. 2019</b></td>
+      <td>I participated in the third <a href="https://orcahub.org/" target="_blank">ORCA Hub</a> demonstrations. 
   Press release <a href="https://orcahub.org/articles/a-summary-of-the-blyth-capability-demonstrations" target="_blank">here</a>.</td>
-      <td></td>
   </tr>
 
   <tr>
