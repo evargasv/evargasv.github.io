@@ -50,8 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
 # News Section
 more_title: News
 more_content: | # this will include new lines to allow paragraphs
-  <table style="width:100%;font-size:1rem;border:none">
-
+  <table>
   <tr>
       <td style="width:130px"><b>Feb. 2020</b></td>
       <td>I am one of the organisers of the <a href="https://sites.google.com/view/wicvworkshop-eccv2020/" target="_blank">WiCV</a> workshop to be 
@@ -109,10 +108,11 @@ more_content: | # this will include new lines to allow paragraphs
   </tr>
 
   <tr>
-      <td style="width:130px"><b><Jan. 2018/b></td>
+      <td style="width:130px"><b>Jan. 2018</b></td>
       <td>I volunteered as robot game judge at <a href="https://education.theiet.org/first-lego-league-programmes/" target="_blank">The FIRST&#174; LEGO&#174; League</a>
   in Edinburgh, United Kingdom.</td>
   </tr>
+  
   </table>
 
 # - **Feb. 2020:** I am one of the organisers of the <a href="https://sites.google.com/view/wicvworkshop-eccv2020/" target="_blank">WiCV</a> workshop to be 
