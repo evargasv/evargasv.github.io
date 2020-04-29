@@ -50,34 +50,92 @@ about_content: | # this will include new lines to allow paragraphs
 # News Section
 more_title: News
 more_content: | # this will include new lines to allow paragraphs
-  <table style="width:100%">
-   <tr>
-      <td style="width:130px"><b>Feb. 2020:</b></td>
+  <table style="width:100%;font-size: 1rem;">
+
+  <tr>
+      <td style="width:130px"><b>Feb. 2020</b></td>
       <td>I am one of the organisers of the <a href="https://sites.google.com/view/wicvworkshop-eccv2020/" target="_blank">WiCV</a> workshop to be 
   held in conjunction with <a href="https://eccv2020.eu/" target="_blank">ECCV 2020</a> in Glasgow, United Kingdom.</td>
-    </tr>
-  </table>
-  - **Feb. 2020:** I am one of the organisers of the <a href="https://sites.google.com/view/wicvworkshop-eccv2020/" target="_blank">WiCV</a> workshop to be 
-  held in conjunction with <a href="https://eccv2020.eu/" target="_blank">ECCV 2020</a> in Glasgow, United Kingdom.
-  - **Jan. 2020:** Our abstract Image Enhancement for Underwater 3D Mapping has been accepted to 
-  <a href="https://singapore20.oceansconference.org/" target="_blank">OCEANS 2020</a>.
-  - **Nov. 2019:** I defended my PhD thesis, titled <a href="publications/theses/vargas2020_phd.pdf" target="_blank">Acoustic Source Localisation in Constrained Environments</a>. 
+  </tr>
+
+  <tr>
+      <td style="width:130px"><b>Jan. 2020</b></td>
+      <td>Our abstract Image Enhancement for Underwater 3D Mapping has been accepted to 
+  <a href="https://singapore20.oceansconference.org/" target="_blank">OCEANS 2020</a>.</td>
+  </tr>
+
+  <tr>
+      <td style="width:130px"><b>Nov. 2019</b></td>
+      <td>I defended my PhD thesis, titled <a href="publications/theses/vargas2020_phd.pdf" target="_blank">Acoustic Source Localisation in Constrained Environments</a>. 
   Examiners: <a href="https://sites.google.com/site/abderrahimhalimi/" target="_blank">Abderrahim Halimi</a> (Heriot-Watt University) 
   and <a href="https://www.southampton.ac.uk/engineering/about/staff/krh.page" target="_blank">Keith Holland</a> (University of Southampton). 
-  Slides <a href="publications/theses/vargas2020_phd_slides.pdf" target="_blank">here</a>.
-  - **Oct. 2019:** I participated in the third <a href="https://orcahub.org/" target="_blank">ORCA Hub</a> demonstrations. 
-  Press release <a href="https://orcahub.org/articles/a-summary-of-the-blyth-capability-demonstrations" target="_blank">here</a>.
-  - **Jan. 2019:** I joined the <a href="https://orcahub.org/" target="_blank">ORCA Hub</a> as a Research Associate, and member of the 
-  <a href="http://pro.hw.ac.uk/" target="_blank">Perception and RObotics (PRO)</a> group. 
-  - **Jul. 2018:** I attended the <a href="http://grammars.grlmc.com/DeepLearn2018/" target="_blank">2<sup>nd</sup> International Summer School on Deep Learning 2018</a> 
-  in Genoa, Italy.
-  - **May. 2018:** Our paper <a href="publications/conferences/vargas2018_eusipco.pdf" target="_blank">A Compressed Encoding Scheme for Approximate TDOA Estimation</a> has been
-  accepted to <a href="http://www.eusipco2018.org/" target="_blank">EUSIPCO 2018</a>.
-  - **Apr. 2018:** I was a student helper in the <a href="https://robotical.io/" target="_blank">Marty: Activate!</a> workshop, as part of the 
-  <a href="https://www.sciencefestival.co.uk/" target="_blank">Edinburgh Science Festival</a>.  
-  - **Jan. 2018:** Our paper <a href="publications/conferences/vargas2018_icassp.pdf" target="_blank">Impact of Microphone Array Configurations on Acoustic Localization</a> has been accepted to <a href="https://2018.ieeeicassp.org/" target="_blank">ICASSP 2018</a>.
-  - **Jan. 2018:** I volunteered as robot game judge at <a href="https://education.theiet.org/first-lego-league-programmes/" target="_blank">The FIRST&#174; LEGO&#174; League</a>
-  in Edinburgh, United Kingdom. 
+  Slides <a href="publications/theses/vargas2020_phd_slides.pdf" target="_blank">here</a>.</td>
+  </tr>
+
+  <tr>
+      <td style="width:130px"><b>Oct. 2019</b>I participated in the third <a href="https://orcahub.org/" target="_blank">ORCA Hub</a> demonstrations. 
+  Press release <a href="https://orcahub.org/articles/a-summary-of-the-blyth-capability-demonstrations" target="_blank">here</a>.</td>
+      <td></td>
+  </tr>
+
+  <tr>
+      <td style="width:130px"><b>Jan. 2019</b></td>
+      <td>I joined the <a href="https://orcahub.org/" target="_blank">ORCA Hub</a> as a Research Associate, and member of the 
+  <a href="http://pro.hw.ac.uk/" target="_blank">Perception and RObotics (PRO)</a> group.</td>
+  </tr>
+
+  <tr>
+      <td style="width:130px"><b>Jul. 2018</b></td>
+      <td> attended the <a href="http://grammars.grlmc.com/DeepLearn2018/" target="_blank">2<sup>nd</sup> International Summer School on Deep Learning 2018</a> 
+  in Genoa, Italy.</td>
+  </tr>
+
+  <tr>
+      <td style="width:130px"><b>May. 2018</b></td>
+      <td>Our paper <a href="publications/conferences/vargas2018_eusipco.pdf" target="_blank">A Compressed Encoding Scheme for Approximate TDOA Estimation</a> has been
+  accepted to <a href="http://www.eusipco2018.org/" target="_blank">EUSIPCO 2018</a>.</td>
+  </tr>
+
+  <tr>
+      <td style="width:130px"><b>Apr. 2018</b></td>
+      <td>I was a student helper in the <a href="https://robotical.io/" target="_blank">Marty: Activate!</a> workshop, as part of the 
+  <a href="https://www.sciencefestival.co.uk/" target="_blank">Edinburgh Science Festival</a>.  </td>
+  </tr>
+
+  <tr>
+      <td style="width:130px"><b>Jan. 2018</b></td>
+      <td>Our paper <a href="publications/conferences/vargas2018_icassp.pdf" target="_blank">Impact of Microphone Array Configurations on Acoustic Localization</a> has been 
+      accepted to <a href="https://2018.ieeeicassp.org/" target="_blank">ICASSP 2018</a>.</td>
+  </tr>
+
+  <tr>
+      <td style="width:130px"><b><Jan. 2018/b></td>
+      <td>I volunteered as robot game judge at <a href="https://education.theiet.org/first-lego-league-programmes/" target="_blank">The FIRST&#174; LEGO&#174; League</a>
+  in Edinburgh, United Kingdom.</td>
+  </tr>
+  </table>
+
+# - **Feb. 2020:** I am one of the organisers of the <a href="https://sites.google.com/view/wicvworkshop-eccv2020/" target="_blank">WiCV</a> workshop to be 
+# held in conjunction with <a href="https://eccv2020.eu/" target="_blank">ECCV 2020</a> in Glasgow, United Kingdom.
+# - **Jan. 2020:** Our abstract Image Enhancement for Underwater 3D Mapping has been accepted to 
+# <a href="https://singapore20.oceansconference.org/" target="_blank">OCEANS 2020</a>.
+# - **Nov. 2019:** I defended my PhD thesis, titled <a href="publications/theses/vargas2020_phd.pdf" target="_blank">Acoustic Source Localisation in Constrained Environments</a>. 
+# Examiners: <a href="https://sites.google.com/site/abderrahimhalimi/" target="_blank">Abderrahim Halimi</a> (Heriot-Watt University) 
+# and <a href="https://www.southampton.ac.uk/engineering/about/staff/krh.page" target="_blank">Keith Holland</a> (University of Southampton). 
+# Slides <a href="publications/theses/vargas2020_phd_slides.pdf" target="_blank">here</a>.
+# - **Oct. 2019:** I participated in the third <a href="https://orcahub.org/" target="_blank">ORCA Hub</a> demonstrations. 
+# Press release <a href="https://orcahub.org/articles/a-summary-of-the-blyth-capability-demonstrations" target="_blank">here</a>.
+# - **Jan. 2019:** I joined the <a href="https://orcahub.org/" target="_blank">ORCA Hub</a> as a Research Associate, and member of the 
+# <a href="http://pro.hw.ac.uk/" target="_blank">Perception and RObotics (PRO)</a> group. 
+# - **Jul. 2018:** I attended the <a href="http://grammars.grlmc.com/DeepLearn2018/" target="_blank">2<sup>nd</sup> International Summer School on Deep Learning 2018</a> 
+# in Genoa, Italy.
+# - **May. 2018:** Our paper <a href="publications/conferences/vargas2018_eusipco.pdf" target="_blank">A Compressed Encoding Scheme for Approximate TDOA Estimation</a> has been
+# accepted to <a href="http://www.eusipco2018.org/" target="_blank">EUSIPCO 2018</a>.
+# - **Apr. 2018:** I was a student helper in the <a href="https://robotical.io/" target="_blank">Marty: Activate!</a> workshop, as part of the 
+# <a href="https://www.sciencefestival.co.uk/" target="_blank">Edinburgh Science Festival</a>.  
+# - **Jan. 2018:** Our paper <a href="publications/conferences/vargas2018_icassp.pdf" target="_blank">Impact of Microphone Array Configurations on Acoustic Localization</a> has been accepted to <a href="https://2018.ieeeicassp.org/" target="_blank">ICASSP 2018</a>.
+# - **Jan. 2018:** I volunteered as robot game judge at <a href="https://education.theiet.org/first-lego-league-programmes/" target="_blank">The FIRST&#174; LEGO&#174; League</a>
+# in Edinburgh, United Kingdom. 
 
 # Timeline Section
 # experience_title: Experience and Education
