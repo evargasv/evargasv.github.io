@@ -52,19 +52,19 @@ more_title: News
 more_content: | # this will include new lines to allow paragraphs
   <table>
   <tr>
-      <td style="width:89px;text-align-last:justify;padding-right:10px"><b>Feb. 2020:</b></td>
+      <td style="width:90px;text-align-last:justify;padding-right:10px"><b>Feb. 2020:</b></td>
       <td>I am one of the organisers of the <a href="https://sites.google.com/view/wicvworkshop-eccv2020/" target="_blank">WiCV</a> workshop to be 
   held in conjunction with <a href="https://eccv2020.eu/" target="_blank">ECCV 2020</a> in Glasgow, United Kingdom.</td>
   </tr>
 
   <tr>
-      <td style="width:89px;text-align-last:justify;padding-right:10px"><b>Jan. 2020:</b></td>
+      <td style="width:90px;text-align-last:justify;padding-right:10px"><b>Jan. 2020:</b></td>
       <td>Our abstract Image Enhancement for Underwater 3D Mapping has been accepted to 
   <a href="https://singapore20.oceansconference.org/" target="_blank">OCEANS 2020</a>.</td>
   </tr>
 
   <tr>
-      <td style="width:89px;text-align-last:justify;padding-right:10px"><b>Nov. 2019:</b></td>
+      <td style="width:90px;text-align-last:justify;padding-right:10px"><b>Nov. 2019:</b></td>
       <td>I defended my PhD thesis, titled <a href="publications/theses/vargas2020_phd.pdf" target="_blank">Acoustic Source Localisation in Constrained Environments</a>. 
   Examiners: <a href="https://sites.google.com/site/abderrahimhalimi/" target="_blank">Abderrahim Halimi</a> (Heriot-Watt University) 
   and <a href="https://www.southampton.ac.uk/engineering/about/staff/krh.page" target="_blank">Keith Holland</a> (University of Southampton). 
@@ -72,43 +72,43 @@ more_content: | # this will include new lines to allow paragraphs
   </tr>
 
   <tr>
-      <td style="width:89px;text-align-last:justify;padding-right:10px"><b>Oct. 2019:</b></td>
+      <td style="width:90px;text-align-last:justify;padding-right:10px"><b>Oct. 2019:</b></td>
       <td>I participated in the third <a href="https://orcahub.org/" target="_blank">ORCA Hub</a> demonstrations. 
   Press release <a href="https://orcahub.org/articles/a-summary-of-the-blyth-capability-demonstrations" target="_blank">here</a>.</td>
   </tr>
 
   <tr>
-      <td style="width:89px;text-align-last:justify;padding-right:10px"><b>Jan. 2019:</b></td>
+      <td style="width:90px;text-align-last:justify;padding-right:10px"><b>Jan. 2019:</b></td>
       <td>I joined the <a href="https://orcahub.org/" target="_blank">ORCA Hub</a> as a Research Associate, and member of the 
   <a href="http://pro.hw.ac.uk/" target="_blank">Perception and RObotics (PRO)</a> group.</td>
   </tr>
 
   <tr>
-      <td style="width:89px;text-align-last:justify;padding-right:10px"><b>Jul. 2018:</b></td>
+      <td style="width:90px;text-align-last:justify;padding-right:10px"><b>Jul. 2018:</b></td>
       <td>I attended the <a href="http://grammars.grlmc.com/DeepLearn2018/" target="_blank">2<sup>nd</sup> International Summer School on Deep Learning 2018</a> 
   in Genoa, Italy.</td>
   </tr>
 
   <tr>
-      <td style="width:89px;text-align-last:justify;padding-right:10px"><b>May. 2018:</b></td>
+      <td style="width:90px;text-align-last:justify;padding-right:10px"><b>May. 2018:</b></td>
       <td>Our paper <a href="publications/conferences/vargas2018_eusipco.pdf" target="_blank">A Compressed Encoding Scheme for Approximate TDOA Estimation</a> has been
   accepted to <a href="http://www.eusipco2018.org/" target="_blank">EUSIPCO 2018</a>.</td>
   </tr>
 
   <tr>
-      <td style="width:89px;text-align-last:justify;padding-right:10px"><b>Apr. 2018:</b></td>
+      <td style="width:90px;text-align-last:justify;padding-right:10px"><b>Apr. 2018:</b></td>
       <td>I was a student helper in the <a href="https://robotical.io/" target="_blank">Marty: Activate!</a> workshop, as part of the 
   <a href="https://www.sciencefestival.co.uk/" target="_blank">Edinburgh Science Festival</a>.  </td>
   </tr>
 
   <tr>
-      <td style="width:89px;text-align-last:justify;padding-right:10px"><b>Jan. 2018:</b></td>
+      <td style="width:90px;text-align-last:justify;padding-right:10px"><b>Jan. 2018:</b></td>
       <td>Our paper <a href="publications/conferences/vargas2018_icassp.pdf" target="_blank">Impact of Microphone Array Configurations on Acoustic Localization</a> has been 
       accepted to <a href="https://2018.ieeeicassp.org/" target="_blank">ICASSP 2018</a>.</td>
   </tr>
 
   <tr>
-      <td style="width:89px;text-align-last:justify;padding-right:10px"><b>Jan. 2018:</b></td>
+      <td style="width:90px;text-align-last:justify;padding-right:10px"><b>Jan. 2018:</b></td>
       <td>I volunteered as robot game judge at <a href="https://education.theiet.org/first-lego-league-programmes/" target="_blank">The FIRST&#174; LEGO&#174; League</a>
   in Edinburgh, United Kingdom.</td>
   </tr>
