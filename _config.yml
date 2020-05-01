@@ -34,13 +34,13 @@ more_title: News
 more_content: | # this will include new lines to allow paragraphs
   <table>
   <tr>
-      <td style="width:125px;text-align-last:justify;padding-right:5px"><ul><li style="padding-bottom:0"><b>Feb. 2020:</b></li></ul></td>
+      <td style="width:125px;text-align-last:justify;padding-right:5px"><ul><li style="padding-top:0"><b>Feb. 2020:</b></li></ul></td>
       <td>I am one of the organisers of the <a href="https://sites.google.com/view/wicvworkshop-eccv2020/" target="_blank">WiCV</a> workshop to be 
   held in conjunction with <a href="https://eccv2020.eu/" target="_blank">ECCV 2020</a> in Glasgow, United Kingdom.</td>
   </tr>
 
   <tr>
-      <td style="width:125px;text-align-last:justify;padding-right:5px"><ul><li style="padding-bottom:0"><b>Jan. 2020:</b></li></ul></td>
+      <td style="width:125px;text-align-last:justify;padding-right:5px"><ul><li style="padding-top:0"><b>Jan. 2020:</b></li></ul></td>
       <td>Our abstract Image Enhancement for Underwater 3D Mapping has been accepted to 
   <a href="https://singapore20.oceansconference.org/" target="_blank">OCEANS 2020</a>.</td>
   </tr>
