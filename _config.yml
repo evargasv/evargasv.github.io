@@ -13,12 +13,14 @@ about_content: | # this will include new lines to allow paragraphs
   I am currently a Research Associate at <a href="https://orcahub.org/" target="_blank">ORCA Hub</a> working on computer vision for underwater robots. I obtained my PhD in Signal 
   Processing from <a href="https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems.htm" target="_blank">Heriot-Watt University</a> and my 
   Master's degree in Computer Vision and Robotics via an Erasmus Mundus Master Programme called <a href="https://www.vibot.org/" target="_blank">VIBOT</a>, awarded by the 
-  <a href="https://en.u-bourgogne.fr/" target="_blank">University of Burgundy</a> (France), 
-  <a href="http://www.udg.edu/en/" target="_blank">University of Girona</a> (Spain) and 
-  <a href="https://www.hw.ac.uk/" target="_blank">Heriot-Watt University</a> (United Kingdom). 
+  <a href="https://en.u-bourgogne.fr/" target="_blank">University of Burgundy</a> *(France)*, 
+  <a href="http://www.udg.edu/en/" target="_blank">University of Girona</a> *(Spain)* and 
+  <a href="https://www.hw.ac.uk/" target="_blank">Heriot-Watt University</a> *(United Kingdom)*. 
   I received my Bachelor's degree in computer science from 
-  <a href="http://eisc.univalle.edu.co/index.php/laboratorios/mmv-lab" target="_blank">Universidad del Valle</a>. During my studies, I have also spent time as a research intern 
-  at <a href="https://research.eu.medical.canon/" target="_blank">Toshiba Medical Visualization Systems</a> and 
+  <a href="http://eisc.univalle.edu.co/index.php/laboratorios/mmv-lab" target="_blank">Universidad del Valle</a> *(Colombia)*, during which I participated in an academic
+  exchange with the <a href="https://www.fau.eu/" target="_blank">Friedrich–Alexander University Erlangen–N&uuml;rnberg</a> *(Germany)*. 
+  During my studies, I have also spent time as a research intern at 
+  <a href="https://research.eu.medical.canon/" target="_blank">Toshiba Medical Visualization Systems</a> and 
   <a href="https://www.philips.com/a-w/research/locations/aachen.html" target="_blank">Philips Research Aachen</a>, and participated in an Innovation Think Tank organised by 
   <a href="https://www.siemens-healthineers.com/en-uk/careers/innovation-think-tank" target="_blank">Siemens Healthcare</a>.
 
@@ -37,12 +39,6 @@ more_content: | # this will include new lines to allow paragraphs
       <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Feb. 2020:</b></li></ul></td>
       <td>I am co-organising the <a href="https://sites.google.com/view/wicvworkshop-eccv2020/" target="_blank">WiCV</a> workshop to be 
   held in conjunction with <a href="https://eccv2020.eu/" target="_blank">ECCV 2020</a> in Glasgow, United Kingdom.</td>
-  </tr>
-
-  <tr>
-      <td style="width:125px;text-align-last:justify;padding-right:5px"><ul  style="margin-bottom:0"><li><b>Jan. 2020:</b></li></ul></td>
-      <td>Our abstract Image Enhancement for Underwater 3D Mapping has been accepted to 
-  <a href="https://singapore20.oceansconference.org/" target="_blank">OCEANS 2020</a>.</td>
   </tr>
 
   <tr>
