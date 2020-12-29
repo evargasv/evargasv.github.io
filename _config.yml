@@ -4,13 +4,14 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Elizabeth Vargas
-title: Research Associate
+title: Software Engineer
 
 # About Section
 # about_title: About Me
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am currently a Research Associate at <a href="https://orcahub.org/" target="_blank">ORCA Hub</a> working on computer vision for underwater robots. I obtained my PhD in Signal 
+  I am currently a Sofware Engineer at <a href="https://sensephotonics.com/" target="_blank">Sense Photonics</a>. Previously, I was a Research Associate at 
+  <a href="https://orcahub.org/" target="_blank">ORCA Hub</a> working on 3D computer vision for robotics. I obtained my PhD in Signal 
   Processing from <a href="https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems.htm" target="_blank">Heriot-Watt University</a> and my 
   Master's degree in Computer Vision and Robotics via an Erasmus Mundus Master Programme called <a href="https://www.vibot.org/" target="_blank">VIBOT</a>, awarded by the 
   <a href="https://en.u-bourgogne.fr/" target="_blank">University of Burgundy</a> *(France)*, 
@@ -35,6 +36,17 @@ about_content: | # this will include new lines to allow paragraphs
 more_title: News
 more_content: | # this will include new lines to allow paragraphs
   <table>
+  <tr>
+      <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Dec. 2020:</b></li></ul></td>
+      <td>Our paper On Improved Training of CNN for Acoustic Source Localisation has been
+  accepted to <a href="https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing" target="_blank">TASLP</a>.</td>
+  </tr>
+
+  <tr>
+      <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Dec. 2020:</b></li></ul></td>
+      <td>I joined <a href="https://sensephotonics.com/" target="_blank">Sense Photonics</a> as a Software Engineer.</td>
+  </tr>
+
   <tr>
       <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Feb. 2020:</b></li></ul></td>
       <td>I am co-organising the <a href="https://sites.google.com/view/wicvworkshop-eccv2020/" target="_blank">WiCV</a> workshop to be 
@@ -85,11 +97,11 @@ more_content: | # this will include new lines to allow paragraphs
       accepted to <a href="https://2018.ieeeicassp.org/" target="_blank">ICASSP 2018</a>.</td>
   </tr>
 
-  <tr>
-      <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Jan. 2018:</b></li></ul></td>
-      <td>I volunteered as robot game judge at <a href="https://education.theiet.org/first-lego-league-programmes/" target="_blank">The FIRST&#174; LEGO&#174; League</a>
-  in Edinburgh, United Kingdom.</td>
-  </tr>
+# <tr>
+#     <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Jan. 2018:</b></li></ul></td>
+#     <td>I volunteered as robot game judge at <a href="https://education.theiet.org/first-lego-league-programmes/" target="_blank">The FIRST&#174; LEGO&#174; League</a>
+# in Edinburgh, United Kingdom.</td>
+# </tr>
 
   </table>
 
