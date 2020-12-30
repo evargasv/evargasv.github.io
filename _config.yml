@@ -38,7 +38,7 @@ more_content: | # this will include new lines to allow paragraphs
   <table>
   <tr>
       <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Dec. 2020:</b></li></ul></td>
-      <td>Our paper On Improved Training of CNN for Acoustic Source Localisation has been
+      <td>Our paper <a href="publications/journals/vargas2021_taslp.pdf" target="_blank">On Improved Training of CNN for Acoustic Source Localisation</a> has been
   accepted to <a href="https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing" target="_blank">TASLP</a>.</td>
   </tr>
 
