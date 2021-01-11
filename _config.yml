@@ -111,7 +111,7 @@ projects_content: | # this will include new lines to allow paragraphs
   <a href="http://homepages.inf.ed.ac.uk/ksubr/" target="_blank">K. Subr</a>, 
   On Improved Training of CNN for Acoustic Source Localisation, in Transactions on Audio, Speech, and Language Processing **(TASLP)**, 
   January 2021. 
-  <a href="publications/journals/vargas2021_taslp.pdf"" target="_blank">[pdf]</a>
+  <a href="publications/journals/vargas2021_taslp.pdf" target="_blank">[pdf]</a>
   <a href="publications/journals/vargas2021_taslp.bib">[bib]</a>
   <a href="https://ieeexplore.ieee.org/document/9316801" target="_blank">[doi]</a>
 
