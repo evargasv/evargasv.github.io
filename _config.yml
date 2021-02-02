@@ -54,7 +54,7 @@ more_content: | # this will include new lines to allow paragraphs
 
   <tr>
       <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Nov. 2019:</b></li></ul></td>
-      <td>I defended my PhD thesis, titled <a href="publications/theses/vargas2020_phd.pdf" target="_blank">Acoustic Source Localisation in Constrained Environments</a>. 
+      <td>I defended my PhD thesis, <a href="publications/theses/vargas2020_phd.pdf" target="_blank">Acoustic Source Localisation in Constrained Environments</a>. 
   Examiners: <a href="https://sites.google.com/site/abderrahimhalimi/" target="_blank">Abderrahim Halimi</a> (Heriot-Watt University) 
   and <a href="https://www.southampton.ac.uk/engineering/about/staff/krh.page" target="_blank">Keith Holland</a> (University of Southampton). 
   Slides <a href="publications/theses/vargas2020_phd_slides.pdf" target="_blank">here</a>.</td>
@@ -80,7 +80,7 @@ more_content: | # this will include new lines to allow paragraphs
 
   <tr>
       <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>May. 2018:</b></li></ul></td>
-      <td>Our paper <a href="publications/conferences/vargas2018_eusipco.pdf" target="_blank">A Compressed Encoding Scheme for TDOA Estimation</a> has been
+      <td>Our paper <a href="publications/conferences/vargas2018_eusipco.pdf" target="_blank">A Compressed Encoding for Approximate TDOA Estimation</a> has been
   accepted to <a href="http://www.eusipco2018.org/" target="_blank">EUSIPCO 2018</a>.</td>
   </tr>
 
@@ -92,7 +92,7 @@ more_content: | # this will include new lines to allow paragraphs
 
   <tr>
       <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Jan. 2018:</b></li></ul></td>
-      <td>Our paper <a href="publications/conferences/vargas2018_icassp.pdf" target="_blank">Impact of Microphone Array Configurations on Acoustic Localization</a> has been 
+      <td>Our paper <a href="publications/conferences/vargas2018_icassp.pdf" target="_blank">Impact of Microphone Configurations on Acoustic Localization</a> has been 
       accepted to <a href="https://2018.ieeeicassp.org/" target="_blank">ICASSP 2018</a>.</td>
   </tr>
 
@@ -129,7 +129,7 @@ projects_content: | # this will include new lines to allow paragraphs
   - **E. Vargas**, 
   <a href="https://researchportal.hw.ac.uk/en/persons/keith-edgar-brown" target="_blank">K. Brown</a>, 
   <a href="http://homepages.inf.ed.ac.uk/ksubr/" target="_blank">K. Subr</a>, 
-  Impact of Microphone Array Configurations on Robust 3D Acoustic Source Localization, in International Conference on Acoustics, 
+  Impact of Microphone Array Configurations on Acoustic Source Localization, in International Conference on Acoustics, 
   Speech and Signal Processing **(ICASSP)**, Calgary, Canada, April 2018.
   <a href="publications/conferences/vargas2018_icassp.pdf" target="_blank">[pdf]</a> 
   <a href="publications/conferences/vargas2018_icassp.bib">[bib]</a>
