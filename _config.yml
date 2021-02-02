@@ -23,7 +23,7 @@ about_content: | # this will include new lines to allow paragraphs
   I have also spent time as a research intern at 
   <a href="https://research.eu.medical.canon/" target="_blank">Toshiba Medical Visualization Systems</a> and 
   <a href="https://www.philips.com/a-w/research/locations/aachen.html" target="_blank">Philips Research Aachen</a>, and participated in an Innovation Think Tank organised by 
-  <a href="https://www.siemens-healthineers.com/en-uk/careers/innovation-think-tank" target="_blank">Siemens Healthcare</a>. Test X5
+  <a href="https://www.siemens-healthineers.com/en-uk/careers/innovation-think-tank" target="_blank">Siemens Healthcare</a>.
 
   <a href="https://mailhide.io/e/qJg3Nghb" target="_blank">Email</a> / 
   <a href="https://www.linkedin.com/in/evargasv/" target="_blank">LinkedIn</a> / 
@@ -80,7 +80,7 @@ more_content: | # this will include new lines to allow paragraphs
 
   <tr>
       <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>May. 2018:</b></li></ul></td>
-      <td>Our paper <a href="publications/conferences/vargas2018_eusipco.pdf" target="_blank">A Compressed Encoding Scheme for Approximate TDOA Estimation</a> has been
+      <td>Our paper <a href="publications/conferences/vargas2018_eusipco.pdf" target="_blank">A Compressed Encoding Scheme for TDOA Estimation</a> has been
   accepted to <a href="http://www.eusipco2018.org/" target="_blank">EUSIPCO 2018</a>.</td>
   </tr>
 
@@ -129,8 +129,7 @@ projects_content: | # this will include new lines to allow paragraphs
   - **E. Vargas**, 
   <a href="https://researchportal.hw.ac.uk/en/persons/keith-edgar-brown" target="_blank">K. Brown</a>, 
   <a href="http://homepages.inf.ed.ac.uk/ksubr/" target="_blank">K. Subr</a>, 
-  Impact of Microphone Array Configurations on Robust 
-  Indirect 3D Acoustic Source Localization, in International Conference on Acoustics, 
+  Impact of Microphone Array Configurations on Robust 3D Acoustic Source Localization, in International Conference on Acoustics, 
   Speech and Signal Processing **(ICASSP)**, Calgary, Canada, April 2018.
   <a href="publications/conferences/vargas2018_icassp.pdf" target="_blank">[pdf]</a> 
   <a href="publications/conferences/vargas2018_icassp.bib">[bib]</a>
