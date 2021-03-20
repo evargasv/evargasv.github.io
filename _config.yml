@@ -40,8 +40,8 @@ more_content: | # this will include new lines to allow paragraphs
 
   <tr>
       <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Feb. 2021:</b></li></ul></td>
-      <td>Our paper <a href="publications/conferences/vargas2021_icra.pdf" target="_blank">Robust Underwater Visual SLAM Fusing Acoustic Sensing</a> has been 
-      accepted to <a href="http://www.icra2021.org/" target="_blank">ICRA 2021</a>.</td>
+      <td>Our paper <a href="publications/conferences/vargas2021_icra.pdf" target="_blank">Robust Underwater Visual SLAM Fusing Acoustic Sensing</a> was 
+      accepted to <a href="http://www.icra2021.org/" target="_blank">ICRA 2021</a> in Xi’an, China.</td>
   </tr>
 
   <tr>
