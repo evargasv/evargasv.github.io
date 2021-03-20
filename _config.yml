@@ -25,11 +25,13 @@ about_content: | # this will include new lines to allow paragraphs
   <a href="https://www.philips.com/a-w/research/locations/aachen.html" target="_blank">Philips Research Aachen</a>, and participated in an Innovation Think Tank organised by 
   <a href="https://www.siemens-healthineers.com/en-uk/careers/innovation-think-tank" target="_blank">Siemens Healthcare</a>.
 
+  <center>
   <a href="https://mailhide.io/e/qJg3Nghb" target="_blank">Email</a> /
   <a href="https://www.linkedin.com/in/evargasv/" target="_blank">LinkedIn</a> / 
   <a href="https://scholar.google.com/citations?user=SyDXC-MAAAAJ&hl=en" target="_blank">Google Scholar</a> / 
   <a href="https://github.com/evargasv" target="_blank">Github</a> / 
   <a href="cv/vargas_cv.pdf" target="_blank">CV</a>
+  </center>
 
 # News Section
 more_title: News
@@ -74,14 +76,14 @@ more_content: | # this will include new lines to allow paragraphs
 
   <tr>
       <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Jul. 2018:</b></li></ul></td>
-      <td>I attended the <a href="http://grammars.grlmc.com/DeepLearn2018/" target="_blank">2<sup>nd</sup> International Summer School on Deep Learning 2018</a> 
+      <td>I attended the <a href="http://irdta.eu/deeplearn2018/" target="_blank">2<sup>nd</sup> International Summer School on Deep Learning 2018</a> 
   in Genoa, Italy.</td>
   </tr>
 
   <tr>
       <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>May. 2018:</b></li></ul></td>
       <td>Our paper <a href="publications/conferences/vargas2018_eusipco.pdf" target="_blank">A Compressed Encoding for Approximate TDOA Estimation</a> has been
-  accepted to <a href="http://www.eusipco2018.org/" target="_blank">EUSIPCO 2018</a>.</td>
+  accepted to <a href="https://www.eurasip.org/Proceedings/Eusipco/Eusipco2018/index.html" target="_blank">EUSIPCO 2018</a>.</td>
   </tr>
 
   <tr>
