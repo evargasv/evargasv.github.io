@@ -37,6 +37,13 @@ about_content: | # this will include new lines to allow paragraphs
 more_title: News
 more_content: | # this will include new lines to allow paragraphs
   <table>
+
+  <tr>
+      <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Jan. 2018:</b></li></ul></td>
+      <td>Our paper <a href="publications/conferences/vargas2021_icra.pdf" target="_blank">Robust Underwater Visual SLAM Fusing Acoustic Sensing</a> has been 
+      accepted to <a href="http://www.icra2021.org/" target="_blank">ICRA 2021</a>.</td>
+  </tr>
+
   <tr>
       <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Dec. 2020:</b></li></ul></td>
       <td>Our paper <a href="publications/journals/vargas2021_taslp.pdf" target="_blank">On Improved Training of CNN for Acoustic Source Localisation</a> has been
@@ -92,12 +99,6 @@ more_content: | # this will include new lines to allow paragraphs
   <a href="https://www.sciencefestival.co.uk/" target="_blank">Edinburgh Science Festival</a>.  </td>
   </tr>
 
-  <tr>
-      <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Jan. 2018:</b></li></ul></td>
-      <td>Our paper <a href="publications/conferences/vargas2018_icassp.pdf" target="_blank">Impact of Microphone Configurations on Acoustic Localization</a> has been 
-      accepted to <a href="https://2018.ieeeicassp.org/" target="_blank">ICASSP 2018</a>.</td>
-  </tr>
-
   </table>
 
 # Publications Section
@@ -117,6 +118,20 @@ projects_content: | # this will include new lines to allow paragraphs
   <a href="https://ieeexplore.ieee.org/document/9316801" target="_blank">[doi]</a>
 
   <font size="4"><b>Conferences</b></font>
+
+    - **E. Vargas**, 
+  <a href="https://scholar.google.com/citations?user=Y_ntBSUAAAAJ&hl=en&oi=ao" target="_blank">R. Scona</a>,
+  <a href="https://www.linkedin.com/in/jonatan-scharff-willners" target="_blank">J. Scharff Wilners</a>, 
+  <a href="https://scholar.google.com/citations?user=lwHwxdUAAAAJ&hl=en&oi=ao" target="_blank">T. Luczynski</a>, 
+  <a href="https://www.tsaoyu.com/" target="_blank">Y. Cao</a>, 
+  <a href="https://researchportal.hw.ac.uk/en/persons/sen-wang" target="_blank">S. Wang</a>, 
+  <a href="https://researchportal.hw.ac.uk/en/persons/yvan-petillot" target="_blank">Y. Petillot</a>, 
+  Robust Underwater Visual SLAM Fusing Acoustic Sensing, in IEEE International Conference on Robotics and Automation **(ICRA)**, 
+  Xi'an, China, June 2021. 
+  <a href="publications/conferences/vargas2021_icra.pdf" target="_blank">[pdf]</a>
+  <a href="publications/conferences/vargas2021_icra.bib">[bib]</a>
+  <a href="https://www.youtube.com/watch?v=1V77WicHVCk&ab_channel=ElizabethVargas" target="_blank">[video]</a>
+
 
   - **E. Vargas**, 
   <a href="https://www.research.ed.ac.uk/portal/en/persons/james-hopgood(c362f445-56b9-44da-b350-c9b32f9f762e)/cv.html?id=10175408" target="_blank">J. R. Hopgood</a>, 
