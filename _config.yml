@@ -10,7 +10,7 @@ title: Software Engineer
 # about_title: About Me
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am currently a Software Engineer at <a href="https://sensephotonics.com/" target="_blank">Sense Photonics</a>. Previously, I was a Research Associate at 
+  I am currently a Software Engineer at <a href="https://ouster.com/" target="_blank">Ouster</a>. Previously, I was a Research Associate at 
   <a href="https://orcahub.org/" target="_blank">ORCA Hub</a> working on 3D computer vision for robotics. I obtained my PhD in Signal 
   Processing from <a href="https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems.htm" target="_blank">Heriot-Watt University</a> and my 
   Master's degree in Computer Vision and Robotics via an Erasmus Mundus Master Programme called <a href="https://www.vibot.org/" target="_blank">VIBOT</a>, awarded by the 
@@ -26,7 +26,7 @@ about_content: | # this will include new lines to allow paragraphs
   <a href="https://www.siemens-healthineers.com/en-uk/careers/innovation-think-tank" target="_blank">Siemens Healthcare</a>.
 
   <center>
-  <a href="https://mailhide.io/e/qJg3Nghb" target="_blank">Email</a> /
+  <a href="https://mailhide.io/e/oKlHDeDD" target="_blank">Email</a> /
   <a href="https://www.linkedin.com/in/evargasv/" target="_blank">LinkedIn</a> / 
   <a href="https://scholar.google.com/citations?user=SyDXC-MAAAAJ&hl=en" target="_blank">Google Scholar</a> / 
   <a href="https://github.com/evargasv" target="_blank">Github</a> / 
@@ -37,6 +37,18 @@ about_content: | # this will include new lines to allow paragraphs
 more_title: News
 more_content: | # this will include new lines to allow paragraphs
   <table>
+
+  <tr>
+      <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Oct. 2021:</b></li></ul></td>
+      <td>Following the <a href="https://techcrunch.com/2021/10/05/lidar-developer-ouster-agrees-to-buy-sense-photonics-as-it-takes-aim-at-the-auto-industry/" 
+      target="_blank">acquisition of Sense Photonics</a>, I am now a Software Engineer at <a href="https://ouster.com/" target="_blank">Ouster</a>.</td>
+  </tr>
+
+  <tr>
+      <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Jul. 2021:</b></li></ul></td>
+      <td>Our paper <a href="publications/preprints/luczynski2021arxiv.pdf" target="_blank">Underwater Inspection and Intervention Dataset</a> is now
+      available to download as pre-print.</td>
+  </tr>
 
   <tr>
       <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Feb. 2021:</b></li></ul></td>
@@ -152,7 +164,8 @@ projects_content: | # this will include new lines to allow paragraphs
   <a href="publications/conferences/vargas2018_icassp.bib">[bib]</a>
   <a href="publications/conferences/vargas2018_icassp_slides.pdf" target="_blank">[slides]</a> 
 
-  - C. Bustos, **E. Vargas**, 
+  - <a href="https://scholar.google.com/citations?user=zGRtcyoAAAAJ&hl=en" target="_blank">C. Bustos</a>, 
+  **E. Vargas**, 
   <a href="http://eisc.univalle.edu.co/index.php/la-escuela/profesores/maria-patricia-trujillo-uribe" target="_blank">M. Trujillo</a>, 
   Classifying Estimated Stereo Correspondences 
   based on Delaunay Triangulation, in IberoAmerican Congress on Pattern Recognition 
@@ -167,6 +180,21 @@ projects_content: | # this will include new lines to allow paragraphs
   **(LACNEM)**, Santiago, Chile, October 2012.
   <a href="publications/conferences/vargas2012_lacnem.pdf" target="_blank">[pdf]</a> 
   <a href="publications/conferences/vargas2012_lacnem.bib">[bib]</a>
+
+
+  <font size="4"><b>Preprints</b></font>
+
+  - <a href="https://scholar.google.com/citations?user=lwHwxdUAAAAJ&hl=en&oi=ao" target="_blank">T. Luczynski</a>,
+  <a href="https://www.linkedin.com/in/jonatan-scharff-willners" target="_blank">J. Scharff Wilners</a>, 
+  **E. Vargas**,
+  <a href="https://scholar.google.com/citations?user=GovtFqIAAAAJ&hl=en" target="_blank">J. Roe</a>,
+  S. Xu,
+  <a href="https://www.tsaoyu.com/" target="_blank">Y. Cao</a>, 
+  <a href="https://researchportal.hw.ac.uk/en/persons/sen-wang" target="_blank">S. Wang</a>, 
+  <a href="https://researchportal.hw.ac.uk/en/persons/yvan-petillot" target="_blank">Y. Petillot</a>, 
+  Underwater Inspection and Intervention Dataset, in **(arXiv)**, July 2021.
+  <a href="publications/preprints/luczynski2021arxiv.pdf" target="_blank">[pdf]</a> 
+  <a href="publications/conferences/bustos2016_ciarp.bib">[bib]</a>
 
   <font size="4"><b>Theses</b></font>
 
