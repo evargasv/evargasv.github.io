@@ -4,14 +4,15 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Elizabeth Vargas
-title: Software Engineer
+title: Senior Software Engineer
 
 # About Section
 # about_title: About Me
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am currently a Software Engineer at <a href="https://ouster.com/" target="_blank">Ouster</a>. Previously, I was a Research Associate in Computer Vision at 
-  <a href="https://orcahub.org/" target="_blank">ORCA Hub</a>. I obtained my PhD in Signal 
+  I am currently a Senior Software Engineer at <a href="https://www.leapautomation.co.uk/" target="_blank">Leap Automation</a>. Previously, I worked
+  at <a href="https://ouster.com/" target="_blank">Ouster</a> as a Software Engineer and at <a href="https://orcahub.org/" target="_blank">ORCA Hub</a>
+  as a Research Associate. I obtained my PhD in Signal 
   Processing from <a href="https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems.htm" target="_blank">Heriot-Watt University</a> and my 
   Master's degree in Computer Vision and Robotics via an Erasmus Mundus Master Programme called <a href="https://www.vibot.org/" target="_blank">VIBOT</a>, awarded by the 
   <a href="https://en.u-bourgogne.fr/" target="_blank">University of Burgundy</a> *(France)*, 
@@ -37,6 +38,11 @@ about_content: | # this will include new lines to allow paragraphs
 more_title: News
 more_content: | # this will include new lines to allow paragraphs
   <table>
+
+  <tr>
+      <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Jan. 2023:</b></li></ul></td>
+      <td>I joined <a href="https://www.leapautomation.co.uk/" target="_blank">Leap Automation</a> in automating end of line product packing for the fresh produce industry utilising modern robotic, vision and software technology.</td>
+  </tr>
 
   <tr>
       <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Oct. 2021:</b></li></ul></td>
