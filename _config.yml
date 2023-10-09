@@ -10,7 +10,7 @@ title: Senior Software Engineer
 # about_title: About Me
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am currently a Senior Software Engineer at <a href="https://www.leapautomation.co.uk/" target="_blank">Leap Automation</a>. Previously, I worked
+  I am currently a Senior Software Engineer at <a href="https://helloleap.ai/" target="_blank">Leap AI</a>. Previously, I worked
   at <a href="https://ouster.com/" target="_blank">Ouster</a> as a Software Engineer and at <a href="https://orcahub.org/" target="_blank">ORCA Hub</a>
   as a Research Associate. I obtained my PhD in Signal 
   Processing from <a href="https://www.hw.ac.uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems.htm" target="_blank">Heriot-Watt University</a> and my 
@@ -41,7 +41,7 @@ more_content: | # this will include new lines to allow paragraphs
 
   <tr>
       <td style="width:125px;text-align-last:justify;padding-right:5px"><ul style="margin-bottom:0"><li><b>Jan. 2023:</b></li></ul></td>
-      <td>I joined <a href="https://www.leapautomation.co.uk/" target="_blank">Leap Automation</a> as a Senior Software Engineer, using computer vision to streamline product packing.</td>
+      <td>I joined <a href="https://helloleap.ai/" target="_blank">Leap AI</a> as a Senior Software Engineer, using computer vision to streamline product packing.</td>
   </tr>
 
   <tr>
